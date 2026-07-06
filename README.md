@@ -8,17 +8,15 @@ Civic infrastructure by the people, for the people has never been more needed. C
 
 A Universal Union is not built around specific politics. It is built around the refusal to hand unreviewable power to unreliable human beings. We do not care whether your politics are popular, unpopular, polite, radical, or vile. The point is to expose beliefs, institutions, and claims of authority to consequence, so destructive patterns are forced to adapt, lose legitimacy, or fail.
 
-Modern society has incredible tools for communication, but weak tools for civic correction. Social media, messaging apps, and forums let people speak, react, and argue at scale, but they do not reliably help people turn conversation into clear decisions, shared understanding, accountable authority, or meaningful influence over the systems that affect their lives. Discussions disappear. Decisions become unclear. Power becomes hard to track. Problems become difficult to challenge until frustration spills outside the process.
+Read more about our [mission here](./v5-documents/0.mission-statement.md).
 
-A Universal Union is an attempt to fill that gap. It gives people and communities tools to deliberate, organize, vote, delegate responsibility, challenge decisions, preserve records, and understand what happened and why, while protecting individual privacy and avoiding dependence on a single central authority.
-
-It is not meant to replace governments, organizations, or communities. It is meant to make power more visible, participation more meaningful, decisions more reviewable, and peaceful correction easier before failure becomes crisis.
+If this is meant to be for the people and by the people, then it ought to be built with the people. Contributions are welcome, but please read [how to contribute](CONTRIBUTING.md) before opening issues, submitting changes, or proposing major revisions.
 
 ## Project Status
 
-A Universal Union is in an early conceptual and architectural stage.
+A Universal Union is in an early conceptual, architectural, and pre-implementation stage.
 
-Most current work is documentary: defining the mission, ethics, feature set, and design boundaries.
+Current work is focused on refining the mission, ethics, feature set, social-structure model, research strategy, and design boundaries.
 
 This repository is not a production-ready system. It is a working design space.
 
@@ -48,74 +46,15 @@ Systems should enable challenge, accountability, and repair without requiring cr
 
 ## Main Documents
 
-The project is organized through a set of core documents. New readers should usually begin with the mission statement, then move into the ethical discussion and feature set.
+The current project documents live in [`v5-documents`](./v5-documents/). They should generally be read in order, since each document builds on the previous ones.
 
-### Start Here
-
-[`0.mission-statement.md`](./v5/0.mission-statement.md)
-Explains the purpose of A Universal Union and the problem it addresses.
-
-[`1.ethical-discussion.md`](./v5/1.ethical-discussion.md)
-Explores the ethical commitments behind the project and the tensions they introduce.
-
-[`2.feature-sets.md`](./v5/2.feature-sets.md)
-Describes the major functional systems of A Universal Union.
-
-### Supporting Documents
-
-[`7.tool-comparison.md`](./v5/7.tool-comparison.md)
-Compares A Universal Union with existing civic and governance tools.
-
-[`CONTRIBUTING.md`](./CONTRIBUTING.md)
-Explains how to contribute and what is expected of contributors.
-
-## How to Contribute
-
-The easiest way to contribute is to open an issue.
-
-Issues can be used to ask questions, report problems, suggest improvements, identify risks, or challenge design choices.
-
-Before opening an issue, contributors should make a reasonable effort to read relevant documents and check for existing discussion.
-
-Pull requests are welcome. Small, focused changes are preferred.
-
-Please read [`CONTRIBUTING.md`](./CONTRIBUTING.md) before opening substantial issues or pull requests.
-
-## Current Contribution Priorities
-
-Useful contributions at this stage include:
-
-* improving clarity and readability,
-* identifying contradictions or missing definitions,
-* finding ethical weaknesses,
-* identifying security and abuse risks,
-* improving document structure,
-* comparing AUU with existing systems,
-* suggesting implementation paths,
-* proposing threat models,
-* improving accessibility for nontechnical readers,
-* and helping translate the project into usable architecture.
-
-## AI Use
-
-AI tools, including ChatGPT, have been used in drafting and review.
-
-The maintainer remains responsible for all accepted content.
-
-Contributors may use AI tools but are responsible for reviewing and verifying their submissions.
-
-See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for details.
-
-## License
-
-This repository currently uses the Unlicense, placing its contents in the public domain.
-
-There is ongoing consideration of whether a different license, such as MIT, may be more appropriate as the project evolves.
-
-## Final Note
-
-A Universal Union is not a finished system.
-
-It is an attempt to design civic infrastructure that improves coordination, supports productive disagreement, protects identity, and enables peaceful correction.
-
-The project welcomes criticism, especially criticism that helps improve it.
+| Document                                                                                          | Purpose                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [`0.mission-statement.md`](./v5-documents/0.mission-statement.md)                                 | Defines the basic purpose of A Universal Union: helping people, collectives, communities, and institutions become sovereign, interconnected civic actors.                                         |
+| [`1.ethical-discussion.md`](./v5-documents/1.ethical-discussion.md)                               | Explains the ethical commitments behind the project, including privacy, accountability, agency, consent, peaceful correction, pluralism, and civic responsibility.                                |
+| [`2.feature-sets.md`](./v5-documents/2.feature-sets.md)                                           | Describes the major functional capabilities AUU is intended to support, including identity, pseudonymity, trust, deliberation, voting, delegation, collectives, records, and analytics.           |
+| [`3.research-and-development-strategy.md`](./v5-documents/3.research-and-development-strategy.md) | Organizes the path from civic design to research, specification, implementation, testing, pilots, and eventual adoption.                                                                          |
+| [`4.social-structures.md`](./v5-documents/4.social-structures.md)                                 | Defines how AUU can represent real-world structures such as households, unions, municipalities, federations, institutions, and informal associations without flattening them into generic groups. |
+| [`5.research.md`](./v5-documents/5.research.md)                                                   | Empty placeholder - may be replaced with a directory structure. The document is intended for keeping research resources. Mainly links to research papers.                                         |
+| [`6.user-experience.md`](./v5-documents/6.user-experience.md)                                     | Empty placeholder for outlining and describing the user experience.                                                                                                                               |
+| [`7.tool-comparison.md`](./v5-documents/7.tool-comparison.md)                                     | Compares AUU to existing civic-technology, governance, deliberation, voting, DAO, and participation tools, and explains what AUU is trying to integrate differently.                              |
