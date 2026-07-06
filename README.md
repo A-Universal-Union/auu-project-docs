@@ -1,12 +1,18 @@
 # A Universal Union
 
-A Universal Union is an early-stage project to build better tools for how people think together, make decisions, and hold power accountable.
+A Universal Union is civic infrastructure by the people, for the people: a proposed framework for discussion, polling, voting, delegation, collective governance, public challenge, and durable civic memory.
 
-Right now, we have incredible ways to communicate with each other—social media, messaging apps, forums—but those tools don’t do a good job of helping people actually turn conversation into clear decisions, shared understanding, or real influence over the systems that affect their lives. Discussions get lost, decisions are unclear, power is hard to track, and it’s often difficult to challenge or fix problems without things breaking down.
+A government may claim to be by the people and for the people, but if **ordinary** people cannot meaningfully see, challenge, or correct power, then they are not governing. They are being governed.
 
-A Universal Union is an attempt to build a system that fills that gap. It focuses on helping people participate in discussions, organize into groups, vote, delegate responsibility, challenge decisions, and keep a clear record of what happened and why—all while protecting individual privacy and avoiding the need for a single central authority to control everything.
+Civic infrastructure by the people, for the people has never been more needed. Centralized governments have had millennia to prove that concentrated power can be trusted when ordinary people cannot meaningfully see, challenge, or correct it. They have not. Across political systems, the pattern repeats: power corrupts, institutions protect themselves, public will is filtered through machinery the public does not control, and the governed are expected to trust motives they cannot inspect. Eventually, this produces unrest — sometimes peaceful, usually not.
 
-It is not meant to replace governments, organizations, or communities. Instead, it is meant to give them better tools so people can work together more clearly, make decisions more transparently, and fix problems more peacefully.
+A Universal Union is not built around specific politics. It is built around the refusal to hand unreviewable power to unreliable human beings. We do not care whether your politics are popular, unpopular, polite, radical, or vile. The point is to expose beliefs, institutions, and claims of authority to consequence, so destructive patterns are forced to adapt, lose legitimacy, or fail.
+
+Modern society has incredible tools for communication, but weak tools for civic correction. Social media, messaging apps, and forums let people speak, react, and argue at scale, but they do not reliably help people turn conversation into clear decisions, shared understanding, accountable authority, or meaningful influence over the systems that affect their lives. Discussions disappear. Decisions become unclear. Power becomes hard to track. Problems become difficult to challenge until frustration spills outside the process.
+
+A Universal Union is an attempt to fill that gap. It gives people and communities tools to deliberate, organize, vote, delegate responsibility, challenge decisions, preserve records, and understand what happened and why, while protecting individual privacy and avoiding dependence on a single central authority.
+
+It is not meant to replace governments, organizations, or communities. It is meant to make power more visible, participation more meaningful, decisions more reviewable, and peaceful correction easier before failure becomes crisis.
 
 ## Project Status
 
