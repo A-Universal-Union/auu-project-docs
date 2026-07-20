@@ -12,6 +12,8 @@ Read more about our [mission here](./v5-documents/0.mission-statement.md).
 
 If this is meant to be for the people and by the people, then it ought to be built with the people. Contributions are welcome, but please read [how to contribute](CONTRIBUTING.md) before opening issues, submitting changes, or proposing major revisions.
 
+If you need a more casual environment [our discord](https://discord.gg/5dsAEVt4Zy).
+
 ## Project Status
 
 A Universal Union is in an early conceptual, architectural, and pre-implementation stage.
