@@ -1,0 +1,790 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7200" height="4200" viewBox="0 0 7200 4200" role="img" aria-labelledby="source-title source-desc">
+  <title id="source-title">The Political Insanity Loop — From Public Opinion to Civic Agency</title>
+  <desc id="source-desc">A repository edition of the Political Insanity Loop. The large left-to-right diagnostic map tests recurring political responses to social harm and preserves useful components while tracing the invariant failure of nonbinding public opinion toward the proposed functions of correctable civic agency in A Universal Union.</desc>
+
+  <defs>
+    <pattern id="grid" width="100" height="100" patternUnits="userSpaceOnUse">
+      <path d="M100 0H0V100" fill="none" stroke="#8a949f" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="10" refY="7" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0L11 7L0 14Z" fill="#89949f"/>
+    </marker>
+    <marker id="arrow-red" markerWidth="14" markerHeight="14" refX="10" refY="7" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0L11 7L0 14Z" fill="#ff5964"/>
+    </marker>
+    <marker id="arrow-cyan" markerWidth="14" markerHeight="14" refX="10" refY="7" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0L11 7L0 14Z" fill="#4ee0c1"/>
+    </marker>
+    <style>
+      .sans { font-family: "DejaVu Sans", sans-serif; }
+      .mono { font-family: "DejaVu Sans Mono", monospace; }
+      .stage-title { font-family: "DejaVu Sans", sans-serif; font-size: 42px; font-weight: 700; fill: #f5f1e8; }
+      .stage-sub { font-family: "DejaVu Sans", sans-serif; font-size: 24px; fill: #b0b9c2; }
+      .card-title { font-family: "DejaVu Sans", sans-serif; font-size: 30px; font-weight: 700; fill: #f5f1e8; }
+      .card-body { font-family: "DejaVu Sans", sans-serif; font-size: 23px; fill: #b4bdc5; }
+      .tag { font-family: "DejaVu Sans Mono", monospace; font-size: 18px; font-weight: 700; letter-spacing: 1.5px; }
+      .lesson-title { font-family: "DejaVu Sans Mono", monospace; font-size: 19px; font-weight: 700; letter-spacing: 2px; }
+      .lesson-body { font-family: "DejaVu Sans", sans-serif; font-size: 27px; font-weight: 700; fill: #f5f1e8; }
+      .small { font-family: "DejaVu Sans", sans-serif; font-size: 20px; fill: #9ca7b1; }
+    </style>
+  </defs>
+
+  <rect width="7200" height="4200" fill="#080b0f"/>
+  <rect width="7200" height="4200" fill="url(#grid)"/>
+  <path d="M0 0H3520L3465 20H0Z" fill="#ff5964"/>
+  <path d="M7200 0H3680L3735 20H7200Z" fill="#4d8dff"/>
+  <rect x="35" y="35" width="6" height="4120" fill="#ff5964" opacity="0.72"/>
+  <rect x="7159" y="35" width="6" height="4120" fill="#4d8dff" opacity="0.72"/>
+
+  <!-- Title -->
+  <text x="82" y="78" class="mono" fill="#4ee0c1" font-size="24" font-weight="700" letter-spacing="4">A UNIVERSAL UNION · CIVIC AGENCY DIAGNOSTIC</text>
+  <text x="7118" y="78" text-anchor="end" class="mono" fill="#7f8a95" font-size="22" font-weight="700" letter-spacing="3">REPOSITORY EDITION · READ LEFT → RIGHT</text>
+  <text x="78" y="190" class="sans" fill="#f5f1e8" font-size="86" font-weight="700" letter-spacing="-1.5">THE POLITICAL <tspan fill="#ffd24d">INSANITY LOOP</tspan></text>
+  <text x="82" y="248" class="sans" fill="#aeb7c0" font-size="31" font-weight="700">From repeated political failure to the missing functions of correctable public power.</text>
+
+  <!-- Universal mental test -->
+  <g transform="translate(80 305)" class="sans">
+    <rect x="0" y="0" width="7040" height="252" rx="20" fill="#11161c" stroke="#39434d" stroke-width="3"/>
+    <text x="28" y="39" class="mono" fill="#ffd24d" font-size="20" font-weight="700" letter-spacing="2.5">RUN EVERY PROPOSED SOLUTION INSIDE A MODEL OF REALITY</text>
+    <text x="7012" y="39" text-anchor="end" class="mono" fill="#75818c" font-size="18" font-weight="700" letter-spacing="2">OBSERVATION + HISTORY CAN TEST AN IDEA BEFORE YOU LIVE IT</text>
+
+    <g transform="translate(28 70)">
+      <rect x="0" y="0" width="1325" height="142" rx="14" fill="#151b21" stroke="#4ee0c1" stroke-width="2"/>
+      <circle cx="54" cy="48" r="28" fill="#08110f" stroke="#4ee0c1" stroke-width="4"/>
+      <text x="54" y="58" text-anchor="middle" fill="#6fe8ce" font-size="26" font-weight="700">1</text>
+      <text x="100" y="48" fill="#f5f1e8" font-size="30" font-weight="700">HOW MANY PEOPLE WANT IT?</text>
+      <text x="100" y="89" fill="#aeb7c0" font-size="23">for it · unsure · persuadable · against it</text>
+      <text x="100" y="121" fill="#78848f" font-size="20">Popularity is evidence—not permission to ignore everyone else.</text>
+    </g>
+    <text x="1378" y="153" fill="#65717c" font-size="34">→</text>
+    <g transform="translate(1418 70)">
+      <rect x="0" y="0" width="1325" height="142" rx="14" fill="#151b21" stroke="#4ee0c1" stroke-width="2"/>
+      <circle cx="54" cy="48" r="28" fill="#08110f" stroke="#4ee0c1" stroke-width="4"/>
+      <text x="54" y="58" text-anchor="middle" fill="#6fe8ce" font-size="26" font-weight="700">2</text>
+      <text x="100" y="48" fill="#f5f1e8" font-size="30" font-weight="700">WHO CAN STOP IT ANYWAY?</text>
+      <text x="100" y="89" fill="#aeb7c0" font-size="23">money · law · media · bureaucracy · force</text>
+      <text x="100" y="121" fill="#78848f" font-size="20">A small organized veto can beat a large scattered majority.</text>
+    </g>
+    <text x="2768" y="153" fill="#65717c" font-size="34">→</text>
+    <g transform="translate(2808 70)">
+      <rect x="0" y="0" width="1325" height="142" rx="14" fill="#151b21" stroke="#4ee0c1" stroke-width="2"/>
+      <circle cx="54" cy="48" r="28" fill="#08110f" stroke="#4ee0c1" stroke-width="4"/>
+      <text x="54" y="58" text-anchor="middle" fill="#6fe8ce" font-size="26" font-weight="700">3</text>
+      <text x="100" y="48" fill="#f5f1e8" font-size="30" font-weight="700">HOW WOULD IT HAPPEN?</text>
+      <text x="100" y="89" fill="#aeb7c0" font-size="23">ballot · persuasion · pressure · parallel build · revolt</text>
+      <text x="100" y="121" fill="#78848f" font-size="20">A goal is not a plan for reaching or surviving power.</text>
+    </g>
+    <text x="4158" y="153" fill="#65717c" font-size="34">→</text>
+    <g transform="translate(4198 70)">
+      <rect x="0" y="0" width="1325" height="142" rx="14" fill="#151b21" stroke="#4ee0c1" stroke-width="2"/>
+      <circle cx="54" cy="48" r="28" fill="#08110f" stroke="#4ee0c1" stroke-width="4"/>
+      <text x="54" y="58" text-anchor="middle" fill="#6fe8ce" font-size="26" font-weight="700">4</text>
+      <text x="100" y="48" fill="#f5f1e8" font-size="29" font-weight="700">WHAT HAPPENS TO PEOPLE WHO SAY NO?</text>
+      <text x="100" y="89" fill="#aeb7c0" font-size="23">speak · appeal · opt out locally · build alternatives</text>
+      <text x="100" y="121" fill="#78848f" font-size="20">Disagreement needs protection—but cannot excuse harming others.</text>
+    </g>
+    <text x="5548" y="153" fill="#65717c" font-size="34">→</text>
+    <g transform="translate(5588 70)">
+      <rect x="0" y="0" width="1424" height="142" rx="14" fill="#151b21" stroke="#4ee0c1" stroke-width="2"/>
+      <circle cx="54" cy="48" r="28" fill="#08110f" stroke="#4ee0c1" stroke-width="4"/>
+      <text x="54" y="58" text-anchor="middle" fill="#6fe8ce" font-size="26" font-weight="700">5</text>
+      <text x="100" y="48" fill="#f5f1e8" font-size="30" font-weight="700">WHO CONTROLS THE NEXT DECISION?</text>
+      <text x="100" y="89" fill="#aeb7c0" font-size="23">who sets the agenda · acts · records · corrects?</text>
+      <text x="100" y="121" fill="#78848f" font-size="20">A solution fails if success merely creates the next ruler.</text>
+    </g>
+  </g>
+
+  <!-- Invariant -->
+  <g transform="translate(80 588)" class="sans">
+    <rect x="0" y="0" width="7040" height="116" rx="15" fill="#1a1317" stroke="#ff5964" stroke-width="3"/>
+    <text x="3520" y="48" text-anchor="middle" fill="#ff7881" font-size="33" font-weight="700">THE INVARIANT: POWER “WON’T LISTEN” WHILE PUBLIC OPINION REMAINS ADVICE RATHER THAN BINDING, CORRECTABLE ACTION.</text>
+    <text x="3520" y="84" text-anchor="middle" fill="#aeb7c0" font-size="23">People enter this map at different places. The left-to-right spine shows what repeated failure makes visible.</text>
+  </g>
+
+  <!-- Outcome legend -->
+  <g transform="translate(80 728)" class="sans">
+    <text x="0" y="28" class="mono" fill="#77838e" font-size="18" font-weight="700" letter-spacing="2">HOW A BRANCH ENDS:</text>
+    <circle cx="255" cy="21" r="10" fill="#ff5964"/><text x="278" y="29" fill="#c6cdd3" font-size="21"><tspan font-weight="700">RETURNS</tspan> · root problem remains</text>
+    <circle cx="790" cy="21" r="10" fill="#ff9a74"/><text x="813" y="29" fill="#c6cdd3" font-size="21"><tspan font-weight="700">BLOCKED</tspan> · map what defended itself</text>
+    <circle cx="1405" cy="21" r="10" fill="#ffd24d"/><text x="1428" y="29" fill="#c6cdd3" font-size="21"><tspan font-weight="700">SILENCES</tspan> · cannot live with disagreement</text>
+    <circle cx="2052" cy="21" r="10" fill="#4ee0c1"/><text x="2075" y="29" fill="#c6cdd3" font-size="21"><tspan font-weight="700">PARTIAL</tspan> · keep the useful component</text>
+  </g>
+
+  <!-- Main stage spine headers -->
+  <g class="sans">
+    <path d="M790 920H1010" fill="none" stroke="#89949f" stroke-width="5" marker-end="url(#arrow)"/>
+    <path d="M1690 920H1750" fill="none" stroke="#89949f" stroke-width="5" marker-end="url(#arrow)"/>
+    <path d="M2830 920H2890" fill="none" stroke="#89949f" stroke-width="5" marker-end="url(#arrow)"/>
+    <path d="M3790 920H3830" fill="none" stroke="#89949f" stroke-width="5" marker-end="url(#arrow)"/>
+    <path d="M5030 920H5070" fill="none" stroke="#89949f" stroke-width="5" marker-end="url(#arrow)"/>
+    <path d="M6030 920H6110" fill="none" stroke="#89949f" stroke-width="5" marker-end="url(#arrow)"/>
+
+    <g transform="translate(80 820)">
+      <rect x="0" y="0" width="710" height="196" rx="18" fill="#151419" stroke="#ff5964" stroke-width="3"/>
+      <text x="28" y="40" class="mono" fill="#ff7881" font-size="20" font-weight="700" letter-spacing="2">00 · OBSERVE</text>
+      <text x="28" y="90" class="stage-title">SOMETHING IS WRONG</text>
+      <text x="28" y="130" class="stage-sub">observe → feel pain → become angry → blame</text>
+      <text x="28" y="167" fill="#ff8c94" font-size="23" font-weight="700">FIRST QUESTION: WHO CAUSED THIS?</text>
+    </g>
+
+    <g transform="translate(1020 820)">
+      <rect x="0" y="0" width="670" height="196" rx="18" fill="#171519" stroke="#ff786a" stroke-width="3"/>
+      <text x="28" y="40" class="mono" fill="#ff8e7f" font-size="20" font-weight="700" letter-spacing="2">01 · WHO RULES?</text>
+      <text x="28" y="90" class="stage-title">CHANGE THE OPERATOR</text>
+      <text x="28" y="130" class="stage-sub">bad outcomes look like bad leadership</text>
+      <text x="28" y="167" fill="#ffa08d" font-size="23" font-weight="700">TRY A DIFFERENT OPERATOR.</text>
+    </g>
+
+    <g transform="translate(1760 820)">
+      <rect x="0" y="0" width="1070" height="196" rx="18" fill="#181619" stroke="#ff9a64" stroke-width="3"/>
+      <text x="28" y="40" class="mono" fill="#ffac7c" font-size="20" font-weight="700" letter-spacing="2">02 · HOW ARE RULERS CHOSEN?</text>
+      <text x="28" y="90" class="stage-title">REPAIR SELECTION</text>
+      <text x="28" y="130" class="stage-sub">maybe the menu, voters, incentives, or electoral rules are broken</text>
+      <text x="28" y="167" fill="#ffb58a" font-size="23" font-weight="700">TRY TO MAKE REPRESENTATION MORE ACCURATE.</text>
+    </g>
+
+    <g transform="translate(2900 820)">
+      <rect x="0" y="0" width="890" height="196" rx="18" fill="#191819" stroke="#ffd24d" stroke-width="3"/>
+      <text x="28" y="40" class="mono" fill="#ffda68" font-size="20" font-weight="700" letter-spacing="2">03 · MAKE POWER RESPOND</text>
+      <text x="28" y="90" class="stage-title">PRESSURE POWER</text>
+      <text x="28" y="130" class="stage-sub">truth, numbers, disruption, leverage, or force</text>
+      <text x="28" y="167" fill="#ffe17d" font-size="23" font-weight="700">TRY TO MAKE RULERS LISTEN.</text>
+    </g>
+
+    <g transform="translate(3840 820)">
+      <rect x="0" y="0" width="1190" height="196" rx="18" fill="#171a18" stroke="#b8dc62" stroke-width="3"/>
+      <text x="28" y="40" class="mono" fill="#c8e876" font-size="20" font-weight="700" letter-spacing="2">04 · MAYBE THE WHOLE SYSTEM IS WRONG</text>
+      <text x="28" y="90" class="stage-title">REPLACE THE SYSTEM</text>
+      <text x="28" y="130" class="stage-sub">change ownership · state · scale · organizing doctrine</text>
+      <text x="28" y="167" fill="#d5ee8d" font-size="23" font-weight="700">TRY A DIFFERENT ANSWER FOR EVERYONE.</text>
+    </g>
+
+    <g transform="translate(5080 820)">
+      <rect x="0" y="0" width="950" height="196" rx="18" fill="#151b1a" stroke="#63dfbd" stroke-width="3"/>
+      <text x="28" y="40" class="mono" fill="#74e8c8" font-size="20" font-weight="700" letter-spacing="2">05 · WHO SHOULD DECIDE?</text>
+      <text x="28" y="90" class="stage-title">GIVE PEOPLE DIRECT POWER</text>
+      <text x="28" y="130" class="stage-sub">vote on issues · deliberate · delegate · build locally</text>
+      <text x="28" y="167" fill="#82edd0" font-size="23" font-weight="700">KEEP AGENCY WITH PARTICIPANTS.</text>
+    </g>
+
+    <g transform="translate(6120 820)">
+      <rect x="0" y="0" width="1000" height="196" rx="18" fill="#121b1c" stroke="#4ee0c1" stroke-width="4"/>
+      <text x="28" y="40" class="mono" fill="#4ee0c1" font-size="20" font-weight="700" letter-spacing="2">06 · ROOT DIAGNOSIS</text>
+      <text x="28" y="90" class="stage-title">BUILD CIVIC MACHINERY</text>
+      <text x="28" y="130" class="stage-sub">not the perfect ruler—the ability to rule together</text>
+      <text x="28" y="167" fill="#6fe8ce" font-size="23" font-weight="700">PUBLIC POWER MUST ALSO BE CORRECTABLE.</text>
+    </g>
+  </g>
+
+  <!-- Stage 0: observation loop -->
+  <g transform="translate(80 1060)" class="sans">
+    <rect x="0" y="0" width="710" height="2150" rx="18" fill="#0d1116" stroke="#2d353e" stroke-width="2"/>
+    <line x1="355" y1="88" x2="355" y2="555" stroke="#ff5964" stroke-width="5" marker-end="url(#arrow-red)"/>
+    <g transform="translate(80 55)">
+      <rect x="0" y="0" width="550" height="150" rx="14" fill="#151a20" stroke="#46515c" stroke-width="2"/>
+      <text x="275" y="49" text-anchor="middle" class="card-title">OBSERVE HARM</text>
+      <text x="275" y="87" text-anchor="middle" class="card-body">services fail · costs rise</text>
+      <text x="275" y="119" text-anchor="middle" class="card-body">institutions contradict their ideals</text>
+    </g>
+    <g transform="translate(80 255)">
+      <rect x="0" y="0" width="550" height="150" rx="14" fill="#151a20" stroke="#46515c" stroke-width="2"/>
+      <text x="275" y="49" text-anchor="middle" class="card-title">FEEL PAIN + ANGER</text>
+      <text x="275" y="87" text-anchor="middle" class="card-body">the mind looks for a cause</text>
+      <text x="275" y="119" text-anchor="middle" class="card-body">urgency rewards simple explanations</text>
+    </g>
+    <g transform="translate(80 455)">
+      <rect x="0" y="0" width="550" height="150" rx="14" fill="#1a1417" stroke="#ff5964" stroke-width="2"/>
+      <text x="275" y="49" text-anchor="middle" class="card-title">BLAME A PERSON</text>
+      <text x="275" y="87" text-anchor="middle" class="card-body">a visible ruler is easier to see</text>
+      <text x="275" y="119" text-anchor="middle" class="card-body">than an invisible relationship</text>
+    </g>
+
+    <g transform="translate(45 740)">
+      <text x="0" y="0" class="mono" fill="#ff7881" font-size="20" font-weight="700" letter-spacing="2">THE REACTIVE LOOP</text>
+      <path d="M60 80H520V410H60V80" fill="none" stroke="#ff5964" stroke-width="5" marker-end="url(#arrow-red)"/>
+      <text x="290" y="137" text-anchor="middle" class="card-title">OBSERVE</text>
+      <text x="475" y="258" text-anchor="middle" class="card-title">BLAME</text>
+      <text x="290" y="377" text-anchor="middle" class="card-title">REPLACE</text>
+      <text x="103" y="258" text-anchor="middle" class="card-title">REPEAT</text>
+      <text x="290" y="475" text-anchor="middle" fill="#aeb7c0" font-size="22">Failure becomes useful only when the mind asks:</text>
+      <text x="290" y="512" text-anchor="middle" fill="#f5f1e8" font-size="25" font-weight="700">WHAT STAYED THE SAME?</text>
+    </g>
+
+    <g transform="translate(45 1430)">
+      <rect x="0" y="0" width="620" height="320" rx="15" fill="#151a20" stroke="#3c4650" stroke-width="2"/>
+      <text x="28" y="43" class="mono" fill="#ffd24d" font-size="18" font-weight="700" letter-spacing="2">FIRST MODEL OF POLITICS</text>
+      <text x="28" y="92" fill="#f5f1e8" font-size="31" font-weight="700">GOOD PEOPLE</text>
+      <text x="28" y="132" fill="#8d98a3" font-size="27">versus</text>
+      <text x="28" y="174" fill="#f5f1e8" font-size="31" font-weight="700">BAD PEOPLE</text>
+      <text x="28" y="226" fill="#aeb7c0" font-size="22">If bad people cause bad outcomes,</text>
+      <text x="28" y="258" fill="#aeb7c0" font-size="22">replace them with good people.</text>
+      <text x="28" y="294" fill="#ff7881" font-size="22" font-weight="700">THIS IS THE FIRST SOLUTION TO TEST.</text>
+    </g>
+
+    <g transform="translate(35 1870)">
+      <rect x="0" y="0" width="640" height="205" rx="15" fill="#1a1417" stroke="#ff5964" stroke-width="2.5"/>
+      <text x="25" y="40" class="lesson-title" fill="#ff7881">WHAT THIS STAGE TEACHES</text>
+      <text x="25" y="89" class="lesson-body">Blame points toward a person</text>
+      <text x="25" y="126" class="lesson-body">before it points toward a system.</text>
+      <text x="25" y="169" fill="#aeb7c0" font-size="21">Next: does a new ruler change the outcome?</text>
+    </g>
+  </g>
+
+  <!-- Stage 1: change people -->
+  <g transform="translate(1020 1060)" class="sans">
+    <rect x="0" y="0" width="670" height="2150" rx="18" fill="#0d1116" stroke="#2d353e" stroke-width="2"/>
+    <line x1="38" y1="60" x2="38" y2="1680" stroke="#ff786a" stroke-width="4"/>
+
+    <g transform="translate(68 55)">
+      <rect x="0" y="0" width="555" height="250" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="24" y="46" class="card-title">VOTE THEM OUT</text>
+      <text x="531" y="-8" text-anchor="end" class="tag" fill="#ff5964">RETURNS</text>
+      <text x="24" y="91" class="card-body">A new occupant inherits the same office,</text>
+      <text x="24" y="126" class="card-body">party, donors, bureaucracy, and legal limits.</text>
+      <text x="24" y="184" fill="#ff8c94" font-size="22" font-weight="700">WHAT SURVIVES:</text>
+      <text x="24" y="220" fill="#f5f1e8" font-size="24" font-weight="700">the machinery around the leader</text>
+    </g>
+
+    <g transform="translate(68 335)">
+      <rect x="0" y="0" width="555" height="230" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="24" y="46" class="card-title">ELECT THE OTHER PARTY</text>
+      <text x="531" y="-8" text-anchor="end" class="tag" fill="#ff5964">RETURNS</text>
+      <text x="24" y="91" class="card-body">The public swaps one bundled program</text>
+      <text x="24" y="126" class="card-body">for another bundled program.</text>
+      <text x="24" y="181" fill="#f5f1e8" font-size="24" font-weight="700">You still choose a package.</text>
+    </g>
+
+    <g transform="translate(68 595)">
+      <rect x="0" y="0" width="555" height="240" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="24" y="46" class="card-title">FIND AN OUTSIDER / SAVIOUR</text>
+      <text x="531" y="-8" text-anchor="end" class="tag" fill="#ff5964">RETURNS</text>
+      <text x="24" y="91" class="card-body">The outsider meets the same institutions—</text>
+      <text x="24" y="126" class="card-body">or tries to concentrate power personally.</text>
+      <text x="24" y="185" fill="#f5f1e8" font-size="24" font-weight="700">Virtue is not accountability.</text>
+    </g>
+
+    <g transform="translate(68 865)">
+      <rect x="0" y="0" width="555" height="240" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="24" y="46" class="card-title">CHOOSE BETTER EXPERTS</text>
+      <text x="531" y="-8" text-anchor="end" class="tag" fill="#4ee0c1">PARTIAL</text>
+      <text x="24" y="91" class="card-body">Competence helps. Good intentions help.</text>
+      <text x="24" y="126" class="card-body">Neither replaces audit, appeal, or recall.</text>
+      <text x="24" y="185" fill="#6fe8ce" font-size="24" font-weight="700">KEEP: expertise as input.</text>
+    </g>
+
+    <g transform="translate(68 1135)">
+      <rect x="0" y="0" width="555" height="260" rx="14" fill="#1a1417" stroke="#ff5964" stroke-width="2.5"/>
+      <text x="24" y="46" class="card-title">REMOVE THEM BY FORCE</text>
+      <text x="531" y="-8" text-anchor="end" class="tag" fill="#ff5964">RETURNS</text>
+      <text x="24" y="91" class="card-body">A coup, assassination, or revolt removes</text>
+      <text x="24" y="126" class="card-body">the occupant faster than an election.</text>
+      <text x="24" y="168" class="card-body">The strongest faction inherits the machine.</text>
+      <text x="24" y="220" fill="#ff8c94" font-size="24" font-weight="700">New ruler. Same structural bet.</text>
+    </g>
+
+    <g transform="translate(35 1870)">
+      <rect x="0" y="0" width="600" height="205" rx="15" fill="#1a1516" stroke="#ff786a" stroke-width="2.5"/>
+      <text x="25" y="40" class="lesson-title" fill="#ff8e7f">WHAT THIS STAGE TEACHES</text>
+      <text x="25" y="89" class="lesson-body">Changing the operator</text>
+      <text x="25" y="126" class="lesson-body">does not change the machine.</text>
+      <text x="25" y="169" fill="#aeb7c0" font-size="21">Next guess: perhaps the selection process is broken.</text>
+    </g>
+  </g>
+
+  <!-- Stage 2: repair selection -->
+  <g transform="translate(1760 1060)" class="sans">
+    <rect x="0" y="0" width="1070" height="2150" rx="18" fill="#0d1116" stroke="#2d353e" stroke-width="2"/>
+
+    <g transform="translate(35 55)">
+      <rect x="0" y="0" width="485" height="235" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="22" y="43" class="card-title">MORE TURNOUT</text>
+      <text x="463" y="-10" text-anchor="end" class="tag" fill="#ff5964">RETURNS</text>
+      <text x="22" y="87" class="card-body">A stronger selection signal</text>
+      <text x="22" y="121" class="card-body">still gives little control afterward.</text>
+      <text x="22" y="181" fill="#f5f1e8" font-size="23" font-weight="700">More voters ≠ public control.</text>
+    </g>
+
+    <g transform="translate(550 55)">
+      <rect x="0" y="0" width="485" height="235" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="22" y="43" class="card-title">EDUCATE VOTERS</text>
+      <text x="463" y="-10" text-anchor="end" class="tag" fill="#4ee0c1">PARTIAL</text>
+      <text x="22" y="87" class="card-body">Better information improves the input.</text>
+      <text x="22" y="121" class="card-body">Power can still ignore the signal.</text>
+      <text x="22" y="181" fill="#6fe8ce" font-size="23" font-weight="700">KEEP: evidence + civic education.</text>
+    </g>
+
+    <g transform="translate(35 320)">
+      <rect x="0" y="0" width="485" height="235" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="22" y="43" class="card-title" style="font-size:27px">THIRD PARTIES / PRIMARIES</text>
+      <text x="463" y="-10" text-anchor="end" class="tag" fill="#ff5964">RETURNS</text>
+      <text x="22" y="87" class="card-body">More brands and more gatekeepers</text>
+      <text x="22" y="121" class="card-body">can improve the menu.</text>
+      <text x="22" y="181" fill="#f5f1e8" font-size="23" font-weight="700">The public still selects rulers.</text>
+    </g>
+
+    <g transform="translate(550 320)">
+      <rect x="0" y="0" width="485" height="235" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="22" y="43" class="card-title">PR / RCV / MMP</text>
+      <text x="463" y="-10" text-anchor="end" class="tag" fill="#4ee0c1">PARTIAL</text>
+      <text x="22" y="87" class="card-body">Seats reflect voters more accurately.</text>
+      <text x="22" y="121" class="card-body">Policy is bargained after the vote.</text>
+      <text x="22" y="181" fill="#6fe8ce" font-size="23" font-weight="700">KEEP: plural representation.</text>
+    </g>
+
+    <g transform="translate(35 585)">
+      <rect x="0" y="0" width="485" height="255" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="22" y="43" class="card-title" style="font-size:26px">CLEAN MONEY / TERM LIMITS</text>
+      <text x="463" y="-10" text-anchor="end" class="tag" fill="#4ee0c1">PARTIAL</text>
+      <text x="22" y="87" class="card-body">Lobbying limits and transparency</text>
+      <text x="22" y="121" class="card-body">can reduce some capture.</text>
+      <text x="22" y="155" class="card-body">The same state enforces the rules.</text>
+      <text x="22" y="211" fill="#6fe8ce" font-size="23" font-weight="700">KEEP: audit + conflicts + recall.</text>
+    </g>
+
+    <g transform="translate(550 585)">
+      <rect x="0" y="0" width="485" height="255" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="22" y="43" class="card-title">RIGHTS / COURTS</text>
+      <text x="463" y="-10" text-anchor="end" class="tag" fill="#4ee0c1">PARTIAL</text>
+      <text x="22" y="87" class="card-body">Rights can restrain abuse.</text>
+      <text x="22" y="121" class="card-body">Courts act later; access is unequal.</text>
+      <text x="22" y="155" class="card-body">and controlled by interpretation.</text>
+      <text x="22" y="211" fill="#6fe8ce" font-size="23" font-weight="700">KEEP: rights + standing + appeal.</text>
+    </g>
+
+    <g transform="translate(35 890)">
+      <rect x="0" y="0" width="1000" height="560" rx="16" fill="#141619" stroke="#ff9a64" stroke-width="3"/>
+      <text x="28" y="42" class="mono" fill="#ffac7c" font-size="20" font-weight="700" letter-spacing="2">THE HARDEST CASE: FUNCTIONING REPRESENTATIVE DEMOCRACIES</text>
+      <text x="28" y="88" fill="#f5f1e8" font-size="31" font-weight="700">A PARTY CAN PROMISE A POPULAR POLICY, WIN,</text>
+      <text x="28" y="128" fill="#f5f1e8" font-size="31" font-weight="700">THEN DELAY, DILUTE, ABANDON, OR IGNORE IT.</text>
+
+      <g transform="translate(28 166)">
+        <rect x="0" y="0" width="456" height="230" rx="13" fill="#1a1417" stroke="#ff6f78" stroke-width="2"/>
+        <text x="22" y="39" class="mono" fill="#ff7f87" font-size="18" font-weight="700" letter-spacing="2">CONCENTRATED SYSTEM</text>
+        <text x="22" y="78" fill="#f5f1e8" font-size="25" font-weight="700">POWER IS CONCENTRATED</text>
+        <text x="22" y="116" class="card-body">A disciplined majority can act.</text>
+        <text x="22" y="150" class="card-body">The platform is not binding.</text>
+        <text x="22" y="194" fill="#ff8f96" font-size="21" font-weight="700">THE PARTY DECIDES WHAT STAYS.</text>
+      </g>
+      <g transform="translate(516 166)">
+        <rect x="0" y="0" width="456" height="230" rx="13" fill="#13161c" stroke="#699fff" stroke-width="2"/>
+        <text x="22" y="39" class="mono" fill="#79a9ff" font-size="18" font-weight="700" letter-spacing="2">FRAGMENTED SYSTEM</text>
+        <text x="22" y="78" fill="#f5f1e8" font-size="25" font-weight="700">VETOES ARE FRAGMENTED</text>
+        <text x="22" y="116" class="card-body">A victory controls only some nodes.</text>
+        <text x="22" y="150" class="card-body">The mandate disperses.</text>
+        <text x="22" y="194" fill="#83adff" font-size="21" font-weight="700">EACH ACTOR BLAMES ANOTHER.</text>
+      </g>
+      <text x="500" y="451" text-anchor="middle" fill="#ffd24d" font-size="26" font-weight="700">DIFFERENT MACHINERY. SAME PUBLIC ROLE:</text>
+      <text x="500" y="490" text-anchor="middle" fill="#f5f1e8" font-size="28" font-weight="700">CHOOSE OFFICEHOLDERS—THEN PETITION THEM.</text>
+      <text x="500" y="530" text-anchor="middle" fill="#aeb7c0" font-size="22">Elections authorize officeholders, not enforceable issue mandates.</text>
+    </g>
+
+    <g transform="translate(35 1870)">
+      <rect x="0" y="0" width="1000" height="205" rx="15" fill="#1a1615" stroke="#ff9a64" stroke-width="2.5"/>
+      <text x="25" y="40" class="lesson-title" fill="#ffac7c">WHAT THIS STAGE TEACHES</text>
+      <text x="25" y="89" class="lesson-body">Better selection does not create</text>
+      <text x="25" y="126" class="lesson-body">binding public control after selection.</text>
+      <text x="25" y="169" fill="#aeb7c0" font-size="21">Next attempt: pressure officeholders until they respond.</text>
+    </g>
+  </g>
+
+  <!-- Stage 3: force response -->
+  <g transform="translate(2900 1060)" class="sans">
+    <rect x="0" y="0" width="890" height="2150" rx="18" fill="#0d1116" stroke="#2d353e" stroke-width="2"/>
+
+    <g transform="translate(45 55)">
+      <rect x="0" y="0" width="800" height="230" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="24" y="45" class="card-title">EXPOSE THE TRUTH</text>
+      <text x="776" y="-8" text-anchor="end" class="tag" fill="#4ee0c1">PARTIAL</text>
+      <text x="24" y="91" class="card-body">Journalism, leaks, debate, and fact-checking</text>
+      <text x="24" y="126" class="card-body">can make reality visible. Power can ignore it.</text>
+      <text x="24" y="184" fill="#6fe8ce" font-size="23" font-weight="700">KEEP: evidence + objections + public record.</text>
+    </g>
+
+    <g transform="translate(45 315)">
+      <rect x="0" y="0" width="800" height="220" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="24" y="45" class="card-title">PETITION / CALL / MARCH</text>
+      <text x="776" y="-8" text-anchor="end" class="tag" fill="#ff5964">RETURNS</text>
+      <text x="24" y="91" class="card-body">Citizens ask officeholders to act.</text>
+      <text x="24" y="126" class="card-body">Officeholders decide whether the request counts.</text>
+      <text x="24" y="178" fill="#f5f1e8" font-size="23" font-weight="700">Voice remains advisory.</text>
+    </g>
+
+    <g transform="translate(45 565)">
+      <rect x="0" y="0" width="800" height="220" rx="14" fill="#151a20" stroke="#4ee0c1" stroke-width="2"/>
+      <text x="24" y="45" class="card-title">PEACEFUL OCCUPATION / PROTEST</text>
+      <text x="776" y="-8" text-anchor="end" class="tag" fill="#ff5964">RETURNS</text>
+      <text x="24" y="91" class="card-body">A peaceful occupation made grievance visible</text>
+      <text x="24" y="126" class="card-body">without creating a public mandate or implementation path.</text>
+      <text x="24" y="178" fill="#4ee0c1" font-size="23" font-weight="700">ATTENTION ≠ AUTHORITY</text>
+    </g>
+
+    <g transform="translate(45 815)">
+      <rect x="0" y="0" width="800" height="230" rx="14" fill="#151a20" stroke="#ffd24d" stroke-width="2"/>
+      <text x="24" y="45" class="card-title">STRIKE / BOYCOTT</text>
+      <text x="776" y="-8" text-anchor="end" class="tag" fill="#4ee0c1">PARTIAL</text>
+      <text x="24" y="91" class="card-body">Organized refusal creates real leverage.</text>
+      <text x="24" y="126" class="card-body">Participants may not represent every affected person.</text>
+      <text x="24" y="184" fill="#6fe8ce" font-size="23" font-weight="700">KEEP: peaceful organized action.</text>
+    </g>
+
+    <g transform="translate(45 1075)">
+      <rect x="0" y="0" width="800" height="250" rx="14" fill="#1a1417" stroke="#ff5964" stroke-width="2.5"/>
+      <text x="24" y="45" class="card-title">VIOLENT DISRUPTION / INSURRECTION</text>
+      <text x="776" y="-8" text-anchor="end" class="tag" fill="#ffd24d">SILENCES</text>
+      <text x="24" y="91" class="card-body">Force challenges an outcome without a legitimate</text>
+      <text x="24" y="126" class="card-body">public process for authorizing a successor.</text>
+      <text x="24" y="184" fill="#ff7881" font-size="23" font-weight="700">FORCE ≠ LEGITIMATE PUBLIC POWER</text>
+    </g>
+
+    <g transform="translate(45 1355)">
+      <rect x="0" y="0" width="800" height="225" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="24" y="45" class="card-title">SUE / LEGAL CHALLENGE</text>
+      <text x="776" y="-8" text-anchor="end" class="tag" fill="#4ee0c1">PARTIAL</text>
+      <text x="24" y="91" class="card-body">Courts can restrain power after harm.</text>
+      <text x="24" y="126" class="card-body">They are reactive and unequal to access.</text>
+      <text x="24" y="181" fill="#6fe8ce" font-size="23" font-weight="700">KEEP: standing + appeal + remedy.</text>
+    </g>
+
+    <g transform="translate(35 1870)">
+      <rect x="0" y="0" width="820" height="205" rx="15" fill="#191817" stroke="#ffd24d" stroke-width="2.5"/>
+      <text x="25" y="40" class="lesson-title" fill="#ffda68">WHAT THIS STAGE TEACHES</text>
+      <text x="25" y="89" class="lesson-body">Pressure can move power.</text>
+      <text x="25" y="126" class="lesson-body">It does not make the public sovereign.</text>
+      <text x="25" y="169" fill="#aeb7c0" font-size="21">Next conclusion: perhaps the system itself must be replaced.</text>
+    </g>
+  </g>
+
+  <!-- Stage 4: replace system -->
+  <g transform="translate(3840 1060)" class="sans">
+    <rect x="0" y="0" width="1190" height="2150" rx="18" fill="#0d1116" stroke="#2d353e" stroke-width="2"/>
+
+    <g transform="translate(35 55)">
+      <rect x="0" y="0" width="545" height="315" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="22" y="43" class="card-title">ELECTORAL SOCIALISM</text>
+      <text x="523" y="-10" text-anchor="end" class="tag" fill="#ff9a74">BLOCKED</text>
+      <text x="22" y="87" class="card-body">Correctly sees organized capital.</text>
+      <text x="22" y="121" class="card-body">Winning office does not control investment,</text>
+      <text x="22" y="155" class="card-body">credit, media, courts, or bureaucracy.</text>
+      <text x="22" y="204" fill="#ffa580" font-size="22" font-weight="700">POWER DEFENDS OWNERSHIP.</text>
+      <text x="22" y="252" class="card-body">Still unanswered: what happens to people</text>
+      <text x="22" y="284" class="card-body">who reject the new economic system?</text>
+    </g>
+
+    <g transform="translate(610 55)">
+      <rect x="0" y="0" width="545" height="315" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="22" y="43" class="card-title">PUBLIC OWNERSHIP</text>
+      <text x="523" y="-10" text-anchor="end" class="tag" fill="#ff5964">RETURNS</text>
+      <text x="22" y="87" class="card-body">Changing the owner changes incentives.</text>
+      <text x="22" y="121" class="card-body">It does not answer who actually governs:</text>
+      <text x="22" y="155" class="card-body">citizens, workers, officials, or managers?</text>
+      <text x="22" y="204" fill="#ff7881" font-size="22" font-weight="700">A PUBLIC LABEL ≠ PUBLIC CONTROL.</text>
+      <text x="22" y="252" fill="#6fe8ce" font-size="22" font-weight="700">KEEP: shared ownership experiments.</text>
+    </g>
+
+    <g transform="translate(35 400)">
+      <rect x="0" y="0" width="545" height="315" rx="14" fill="#1a1417" stroke="#ffd24d" stroke-width="2.3"/>
+      <text x="22" y="43" class="card-title">REVOLUTIONARY SOCIALISM</text>
+      <text x="523" y="-10" text-anchor="end" class="tag" fill="#ffd24d">SILENCES</text>
+      <text x="22" y="87" class="card-body">The old system will not surrender easily.</text>
+      <text x="22" y="121" class="card-body">The transition centralizes power to survive.</text>
+      <text x="22" y="155" class="card-body">Dissent becomes “counterrevolution.”</text>
+      <text x="22" y="204" fill="#ffda68" font-size="22" font-weight="700">THE TEMPORARY RULER NEVER LEAVES.</text>
+      <text x="22" y="252" class="card-body">A new system can still silence dissent.</text>
+    </g>
+
+    <g transform="translate(610 400)">
+      <rect x="0" y="0" width="545" height="315" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="22" y="43" class="card-title">ANARCHISM</text>
+      <text x="523" y="-10" text-anchor="end" class="tag" fill="#ff5964">RETURNS</text>
+      <text x="22" y="87" class="card-body">Removing the state removes one hierarchy.</text>
+      <text x="22" y="121" class="card-body">Informal power still remains.</text>
+      <text x="22" y="155" class="card-body">Harms still cross boundaries.</text>
+      <text x="22" y="204" fill="#ff7881" font-size="22" font-weight="700">POWER REAPPEARS WITHOUT A NAME.</text>
+      <text x="22" y="252" fill="#6fe8ce" font-size="22" font-weight="700">KEEP: voluntary groups + local choice.</text>
+    </g>
+
+    <g transform="translate(35 745)">
+      <rect x="0" y="0" width="545" height="315" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="22" y="43" class="card-title">LIBERTARIAN / MARKET EXIT</text>
+      <text x="523" y="-10" text-anchor="end" class="tag" fill="#ff5964">RETURNS</text>
+      <text x="22" y="87" class="card-body">Correctly sees coercive state power.</text>
+      <text x="22" y="121" class="card-body">Concentrated property and unequal exit</text>
+      <text x="22" y="155" class="card-body">let private owners govern nonowners.</text>
+      <text x="22" y="204" fill="#ff7881" font-size="22" font-weight="700">WEALTH BECOMES VOTING POWER.</text>
+      <text x="22" y="252" fill="#6fe8ce" font-size="22" font-weight="700">KEEP: exit where people can leave.</text>
+    </g>
+
+    <g transform="translate(610 745)">
+      <rect x="0" y="0" width="545" height="315" rx="14" fill="#1a1417" stroke="#ffd24d" stroke-width="2.3"/>
+      <text x="22" y="43" class="card-title">TECHNOCRACY / AI RULE</text>
+      <text x="523" y="-10" text-anchor="end" class="tag" fill="#ffd24d">SILENCES</text>
+      <text x="22" y="87" class="card-body">Complex problems need expertise.</text>
+      <text x="22" y="121" class="card-body">Values cannot be optimized away.</text>
+      <text x="22" y="155" class="card-body">Disagreement becomes ignorance or error.</text>
+      <text x="22" y="204" fill="#ffda68" font-size="22" font-weight="700">EXPERTISE BECOMES AUTHORITY.</text>
+      <text x="22" y="252" fill="#6fe8ce" font-size="22" font-weight="700">KEEP: expert advice—not orders.</text>
+    </g>
+
+    <g transform="translate(35 1090)">
+      <rect x="0" y="0" width="545" height="315" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="22" y="43" class="card-title">LOCALISM / SECESSION</text>
+      <text x="523" y="-10" text-anchor="end" class="tag" fill="#4ee0c1">PARTIAL</text>
+      <text x="22" y="87" class="card-body">Power moves closer to affected people.</text>
+      <text x="22" y="121" class="card-body">Local elites and internal minorities remain.</text>
+      <text x="22" y="155" class="card-body">Some effects cross borders.</text>
+      <text x="22" y="204" fill="#6fe8ce" font-size="22" font-weight="700">KEEP: LOCAL POWER FOR LOCAL NEEDS.</text>
+      <text x="22" y="252" class="card-body">Shared problems still require federation.</text>
+    </g>
+
+    <g transform="translate(610 1090)">
+      <rect x="0" y="0" width="545" height="315" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="22" y="43" class="card-title">WORLD STATE</text>
+      <text x="523" y="-10" text-anchor="end" class="tag" fill="#ff5964">RETURNS</text>
+      <text x="22" y="87" class="card-body">Large problems get coordinated answers.</text>
+      <text x="22" y="121" class="card-body">The answer creates one distant institution</text>
+      <text x="22" y="155" class="card-body">valuable enough for everyone to capture.</text>
+      <text x="22" y="204" fill="#ff7881" font-size="22" font-weight="700">ONE SYSTEM = ONE FAILURE POINT.</text>
+      <text x="22" y="252" fill="#6fe8ce" font-size="22" font-weight="700">KEEP: coordination without absorption.</text>
+    </g>
+
+    <g transform="translate(35 1870)">
+      <rect x="0" y="0" width="1120" height="205" rx="15" fill="#171a16" stroke="#b8dc62" stroke-width="2.5"/>
+      <text x="25" y="40" class="lesson-title" fill="#c8e876">WHAT THIS STAGE TEACHES</text>
+      <text x="25" y="89" class="lesson-body">A new universal system still needs a way</text>
+      <text x="25" y="126" class="lesson-body">to live with people who reject it.</text>
+      <text x="25" y="169" fill="#aeb7c0" font-size="21">Next question: can people keep decision-making power themselves?</text>
+    </g>
+  </g>
+
+  <!-- Stage 5: direct power -->
+  <g transform="translate(5080 1060)" class="sans">
+    <rect x="0" y="0" width="950" height="2150" rx="18" fill="#0d1116" stroke="#2d353e" stroke-width="2"/>
+
+    <g transform="translate(35 55)">
+      <rect x="0" y="0" width="420" height="325" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="20" y="43" class="card-title">REFERENDUMS</text>
+      <text x="400" y="-10" text-anchor="end" class="tag" fill="#4ee0c1">PARTIAL</text>
+      <text x="20" y="87" class="card-body">People decide an issue directly.</text>
+      <text x="20" y="121" class="card-body">Who writes the question?</text>
+      <text x="20" y="155" class="card-body">Who protects minorities?</text>
+      <text x="20" y="189" class="card-body">Who implements the result?</text>
+      <text x="20" y="246" fill="#6fe8ce" font-size="22" font-weight="700">KEEP: DIRECT DECISIONS.</text>
+    </g>
+
+    <g transform="translate(495 55)">
+      <rect x="0" y="0" width="420" height="325" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="20" y="43" class="card-title">CITIZEN ASSEMBLIES</text>
+      <text x="400" y="-10" text-anchor="end" class="tag" fill="#4ee0c1">PARTIAL</text>
+      <text x="20" y="87" class="card-body">A small group studies one issue.</text>
+      <text x="20" y="121" class="card-body">It may stay advisory—or become</text>
+      <text x="20" y="155" class="card-body">a new group ruling everyone.</text>
+      <text x="20" y="212" fill="#6fe8ce" font-size="22" font-weight="700">KEEP: DELIBERATION +</text>
+      <text x="20" y="246" fill="#6fe8ce" font-size="22" font-weight="700">AFFECTED-PERSON INPUT.</text>
+    </g>
+
+    <g transform="translate(35 410)">
+      <rect x="0" y="0" width="420" height="325" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="20" y="43" class="card-title">DELEGATE YOUR VOTE</text>
+      <text x="400" y="-10" text-anchor="end" class="tag" fill="#4ee0c1">PARTIAL</text>
+      <text x="20" y="87" class="card-body">People can lend their vote.</text>
+      <text x="20" y="121" class="card-body">Delegates can hoard power.</text>
+      <text x="20" y="155" class="card-body">Privacy and audits still matter.</text>
+      <text x="20" y="212" fill="#6fe8ce" font-size="22" font-weight="700">KEEP: REVOCABLE,</text>
+      <text x="20" y="246" fill="#6fe8ce" font-size="22" font-weight="700">ISSUE-SPECIFIC DELEGATION.</text>
+    </g>
+
+    <g transform="translate(495 410)">
+      <rect x="0" y="0" width="420" height="325" rx="14" fill="#1a1417" stroke="#ffd24d" stroke-width="2.2"/>
+      <text x="20" y="43" class="card-title">CONSENSUS</text>
+      <text x="400" y="-10" text-anchor="end" class="tag" fill="#ffd24d">SILENCES</text>
+      <text x="20" y="87" class="card-body">Everyone appears to agree.</text>
+      <text x="20" y="121" class="card-body">One person may block the rest—</text>
+      <text x="20" y="155" class="card-body">or pressure hides dissent.</text>
+      <text x="20" y="212" fill="#ffda68" font-size="22" font-weight="700">NO SPOKEN DISAGREEMENT</text>
+      <text x="20" y="246" fill="#ffda68" font-size="22" font-weight="700">DOES NOT PROVE CONSENT.</text>
+    </g>
+
+    <g transform="translate(35 765)">
+      <rect x="0" y="0" width="420" height="325" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="20" y="43" class="card-title">UNIONS / CO-OPS</text>
+      <text x="400" y="-10" text-anchor="end" class="tag" fill="#4ee0c1">PARTIAL</text>
+      <text x="20" y="87" class="card-body">Members gain organized power.</text>
+      <text x="20" y="121" class="card-body">Members do not automatically</text>
+      <text x="20" y="155" class="card-body">represent everyone affected.</text>
+      <text x="20" y="212" fill="#6fe8ce" font-size="22" font-weight="700">KEEP: ORGANIZED PEOPLE</text>
+      <text x="20" y="246" fill="#6fe8ce" font-size="22" font-weight="700">ABLE TO FOLLOW THROUGH.</text>
+    </g>
+
+    <g transform="translate(495 765)">
+      <rect x="0" y="0" width="420" height="325" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="20" y="43" class="card-title">MUTUAL AID</text>
+      <text x="400" y="-10" text-anchor="end" class="tag" fill="#4ee0c1">PARTIAL</text>
+      <text x="20" y="87" class="card-body">People act without waiting.</text>
+      <text x="20" y="121" class="card-body">Projects stay local, fragmented,</text>
+      <text x="20" y="155" class="card-body">contained, or easy to reverse.</text>
+      <text x="20" y="212" fill="#6fe8ce" font-size="22" font-weight="700">KEEP: PARALLEL CAPACITY</text>
+      <text x="20" y="246" fill="#6fe8ce" font-size="22" font-weight="700">THAT CAN FEDERATE.</text>
+    </g>
+
+    <g transform="translate(35 1120)">
+      <rect x="0" y="0" width="880" height="280" rx="14" fill="#151a20" stroke="#3d4751" stroke-width="2"/>
+      <text x="24" y="45" class="card-title">CHANGE CONSCIOUSNESS / EDUCATE EVERYONE</text>
+      <text x="856" y="-8" text-anchor="end" class="tag" fill="#4ee0c1">PARTIAL</text>
+      <text x="24" y="91" class="card-body">Better people make better participants.</text>
+      <text x="24" y="126" class="card-body">Good people still disagree, forget, and make mistakes.</text>
+      <text x="24" y="174" fill="#6fe8ce" font-size="22" font-weight="700">KEEP: HUMILITY + EDUCATION + A CULTURE OF PARTICIPATION.</text>
+      <text x="24" y="222" fill="#f5f1e8" font-size="23" font-weight="700">Goodness is not a governance protocol.</text>
+    </g>
+
+    <g transform="translate(35 1870)">
+      <rect x="0" y="0" width="880" height="205" rx="15" fill="#151b1a" stroke="#63dfbd" stroke-width="2.5"/>
+      <text x="25" y="40" class="lesson-title" fill="#74e8c8">WHAT THIS STAGE TEACHES</text>
+      <text x="25" y="89" class="lesson-body">These are pieces of the answer—</text>
+      <text x="25" y="126" class="lesson-body">not yet a shared civic operating system.</text>
+      <text x="25" y="169" fill="#aeb7c0" font-size="21">The missing problem is now visible.</text>
+    </g>
+  </g>
+
+  <!-- Stage 6: root and AUU -->
+  <g transform="translate(6120 1060)" class="sans">
+    <rect x="0" y="0" width="1000" height="2150" rx="18" fill="#0d1415" stroke="#4ee0c1" stroke-width="3"/>
+
+    <g transform="translate(38 45)">
+      <rect x="0" y="0" width="924" height="300" rx="16" fill="#121d1e" stroke="#4ee0c1" stroke-width="3"/>
+      <text x="28" y="45" class="mono" fill="#4ee0c1" font-size="20" font-weight="700" letter-spacing="2">THE ROOT PROBLEM</text>
+      <text x="28" y="97" fill="#f5f1e8" font-size="35" font-weight="700">PEOPLE HAVE OPINIONS—</text>
+      <text x="28" y="143" fill="#f5f1e8" font-size="35" font-weight="700">BUT NO CONTINUOUS MACHINERY</text>
+      <text x="28" y="189" fill="#f5f1e8" font-size="35" font-weight="700">FOR COLLECTIVE AUTHORSHIP.</text>
+      <text x="28" y="242" fill="#aeb7c0" font-size="23">They may speak, vote, protest, strike, and revolt—</text>
+      <text x="28" y="274" fill="#aeb7c0" font-size="23">yet remain downstream of organized power.</text>
+    </g>
+
+    <text x="42" y="410" class="mono" fill="#ffd24d" font-size="20" font-weight="700" letter-spacing="2">CAN THE PUBLIC ITSELF...</text>
+    <line x1="70" y1="462" x2="70" y2="1322" stroke="#4ee0c1" stroke-width="5"/>
+
+    <g transform="translate(40 445)">
+      <circle cx="30" cy="30" r="24" fill="#08110f" stroke="#4ee0c1" stroke-width="3"/><text x="30" y="39" text-anchor="middle" fill="#6fe8ce" font-size="23" font-weight="700">1</text>
+      <text x="78" y="36" class="card-title">START AN ISSUE?</text>
+      <text x="78" y="70" class="card-body">not wait for a party to place it on the agenda</text>
+    </g>
+    <g transform="translate(40 555)">
+      <circle cx="30" cy="30" r="24" fill="#08110f" stroke="#4ee0c1" stroke-width="3"/><text x="30" y="39" text-anchor="middle" fill="#6fe8ce" font-size="23" font-weight="700">2</text>
+      <text x="78" y="36" class="card-title">SHOW WHO IS AFFECTED?</text>
+      <text x="78" y="70" class="card-body">supporters · opponents · people bearing the cost</text>
+    </g>
+    <g transform="translate(40 665)">
+      <circle cx="30" cy="30" r="24" fill="#08110f" stroke="#4ee0c1" stroke-width="3"/><text x="30" y="39" text-anchor="middle" fill="#6fe8ce" font-size="23" font-weight="700">3</text>
+      <text x="78" y="36" class="card-title">TEST EVIDENCE + OBJECTIONS?</text>
+      <text x="78" y="70" class="card-body">revise the proposal before forcing a false choice</text>
+    </g>
+    <g transform="translate(40 775)">
+      <circle cx="30" cy="30" r="24" fill="#08110f" stroke="#4ee0c1" stroke-width="3"/><text x="30" y="39" text-anchor="middle" fill="#6fe8ce" font-size="23" font-weight="700">4</text>
+      <text x="78" y="36" class="card-title">AUTHORIZE A LIMITED MANDATE?</text>
+      <text x="78" y="70" class="card-body">who may do what · where · for how long</text>
+    </g>
+    <g transform="translate(40 885)">
+      <circle cx="30" cy="30" r="24" fill="#08110f" stroke="#4ee0c1" stroke-width="3"/><text x="30" y="39" text-anchor="middle" fill="#6fe8ce" font-size="23" font-weight="700">5</text>
+      <text x="78" y="36" class="card-title">DELEGATE + REVOKE ACTION?</text>
+      <text x="78" y="70" class="card-body">expertise can serve without owning authority</text>
+    </g>
+    <g transform="translate(40 995)">
+      <circle cx="30" cy="30" r="24" fill="#08110f" stroke="#4ee0c1" stroke-width="3"/><text x="30" y="39" text-anchor="middle" fill="#6fe8ce" font-size="23" font-weight="700">6</text>
+      <text x="78" y="36" class="card-title">SEE WHAT ACTUALLY HAPPENED?</text>
+      <text x="78" y="70" class="card-body">promises · actions · results · institutional memory</text>
+    </g>
+    <g transform="translate(40 1105)">
+      <circle cx="30" cy="30" r="24" fill="#08110f" stroke="#4ee0c1" stroke-width="3"/><text x="30" y="39" text-anchor="middle" fill="#6fe8ce" font-size="23" font-weight="700">7</text>
+      <text x="78" y="36" class="card-title">CHALLENGE + REPAIR?</text>
+      <text x="78" y="70" class="card-body">appeal · contain harm · correct mistakes</text>
+    </g>
+    <g transform="translate(40 1215)">
+      <circle cx="30" cy="30" r="24" fill="#08110f" stroke="#4ee0c1" stroke-width="3"/><text x="30" y="39" text-anchor="middle" fill="#6fe8ce" font-size="23" font-weight="700">8</text>
+      <text x="78" y="36" class="card-title">FEDERATE WITHOUT BEING ABSORBED?</text>
+      <text x="78" y="70" class="card-body">local autonomy + coordination across shared problems</text>
+    </g>
+
+    <g transform="translate(38 1440)">
+      <rect x="6" y="8" width="912" height="560" rx="18" fill="#000000" opacity="0.35"/>
+      <rect x="0" y="0" width="924" height="560" rx="18" fill="#4ee0c1"/>
+      <text x="28" y="47" class="mono" fill="#0a2a24" font-size="20" font-weight="700" letter-spacing="2">A UNIVERSAL UNION · AUU</text>
+      <text x="28" y="105" fill="#071713" font-size="37" font-weight="700">BUILD THE MISSING</text>
+      <text x="28" y="153" fill="#071713" font-size="37" font-weight="700">CIVIC MACHINERY.</text>
+      <text x="28" y="211" fill="#103f35" font-size="23" font-weight="700">ORIGINATE → DELIBERATE → AUTHORIZE</text>
+      <text x="28" y="249" fill="#103f35" font-size="23" font-weight="700">DELEGATE → ACT → RECORD</text>
+      <text x="28" y="287" fill="#103f35" font-size="23" font-weight="700">CHALLENGE → REPAIR → FEDERATE</text>
+      <line x1="28" y1="328" x2="896" y2="328" stroke="#249b83" stroke-width="2"/>
+      <text x="28" y="380" fill="#071713" font-size="28" font-weight="700">NOT A NEW RULER.</text>
+      <text x="28" y="424" fill="#071713" font-size="28" font-weight="700">A CORRECTABLE WAY TO RULE TOGETHER.</text>
+      <text x="28" y="480" fill="#164f43" font-size="21">No institution becomes the only court allowed</text>
+      <text x="28" y="512" fill="#164f43" font-size="21">to hear its own appeal.</text>
+    </g>
+  </g>
+
+  <!-- Bottom retained-components band -->
+  <g transform="translate(80 3300)" class="sans">
+    <rect x="0" y="0" width="7040" height="760" rx="22" fill="#0f1518" stroke="#4ee0c1" stroke-width="3"/>
+    <text x="35" y="48" class="mono" fill="#4ee0c1" font-size="21" font-weight="700" letter-spacing="2.5">WHAT SURVIVES THE TEST · AUU DOES NOT THROW EVERY EARLIER IDEA AWAY</text>
+    <text x="35" y="92" fill="#f5f1e8" font-size="30" font-weight="700">Each failed “complete solution” contributes a requirement for a more complete civic system.</text>
+
+    <g transform="translate(35 140)">
+      <rect x="0" y="0" width="825" height="190" rx="14" fill="#151c20" stroke="#ff786a" stroke-width="2"/>
+      <text x="24" y="42" class="mono" fill="#ff8e7f" font-size="18" font-weight="700" letter-spacing="2">FROM REPLACING LEADERS</text>
+      <text x="24" y="91" fill="#f5f1e8" font-size="27" font-weight="700">REMOVAL · RECALL · LIMITED MANDATES</text>
+      <text x="24" y="137" class="card-body">People must be able to end authority</text>
+      <text x="24" y="169" class="card-body">without destroying the whole system.</text>
+    </g>
+    <g transform="translate(895 140)">
+      <rect x="0" y="0" width="960" height="190" rx="14" fill="#151c20" stroke="#ff9a64" stroke-width="2"/>
+      <text x="24" y="42" class="mono" fill="#ffac7c" font-size="18" font-weight="700" letter-spacing="2">FROM ELECTORAL REFORM</text>
+      <text x="24" y="91" fill="#f5f1e8" font-size="27" font-weight="700">PLURALISM · FAIR REPRESENTATION · RIGHTS</text>
+      <text x="24" y="137" class="card-body">Different views need room to organize</text>
+      <text x="24" y="169" class="card-body">without becoming one compulsory package.</text>
+    </g>
+    <g transform="translate(1890 140)">
+      <rect x="0" y="0" width="865" height="190" rx="14" fill="#151c20" stroke="#ffd24d" stroke-width="2"/>
+      <text x="24" y="42" class="mono" fill="#ffda68" font-size="18" font-weight="700" letter-spacing="2">FROM PUBLIC PRESSURE</text>
+      <text x="24" y="91" fill="#f5f1e8" font-size="27" font-weight="700">EVIDENCE · OBJECTIONS · ORGANIZED ACTION</text>
+      <text x="24" y="137" class="card-body">Speech must connect to peaceful capacity</text>
+      <text x="24" y="169" class="card-body">for follow-through.</text>
+    </g>
+    <g transform="translate(2790 140)">
+      <rect x="0" y="0" width="1040" height="190" rx="14" fill="#151c20" stroke="#b8dc62" stroke-width="2"/>
+      <text x="24" y="42" class="mono" fill="#c8e876" font-size="18" font-weight="700" letter-spacing="2">FROM SYSTEM ALTERNATIVES</text>
+      <text x="24" y="91" fill="#f5f1e8" font-size="27" font-weight="700">EXPERIMENTATION · LOCAL AUTONOMY · EXPERTISE</text>
+      <text x="24" y="137" class="card-body">Different models can coexist where consequences</text>
+      <text x="24" y="169" class="card-body">remain local and shared rights remain protected.</text>
+    </g>
+    <g transform="translate(3865 140)">
+      <rect x="0" y="0" width="1020" height="190" rx="14" fill="#151c20" stroke="#63dfbd" stroke-width="2"/>
+      <text x="24" y="42" class="mono" fill="#74e8c8" font-size="18" font-weight="700" letter-spacing="2">FROM DIRECT PARTICIPATION</text>
+      <text x="24" y="91" fill="#f5f1e8" font-size="27" font-weight="700">DELIBERATION · AUTHORIZATION · DELEGATION</text>
+      <text x="24" y="137" class="card-body">People need power before, during, and after</text>
+      <text x="24" y="169" class="card-body">the final vote.</text>
+    </g>
+    <g transform="translate(4920 140)">
+      <rect x="0" y="0" width="980" height="190" rx="14" fill="#151c20" stroke="#4ee0c1" stroke-width="2"/>
+      <text x="24" y="42" class="mono" fill="#4ee0c1" font-size="18" font-weight="700" letter-spacing="2">FROM DIGITAL GOVERNANCE</text>
+      <text x="24" y="91" fill="#f5f1e8" font-size="27" font-weight="700">IDENTITY · PRIVACY · AUDIT · REVOCATION</text>
+      <text x="24" y="137" class="card-body">Participation must resist duplicate identities,</text>
+      <text x="24" y="169" class="card-body">surveillance, coercion, and hidden administration.</text>
+    </g>
+    <g transform="translate(5935 140)">
+      <rect x="0" y="0" width="1070" height="190" rx="14" fill="#151c20" stroke="#4ee0c1" stroke-width="2"/>
+      <text x="24" y="42" class="mono" fill="#4ee0c1" font-size="18" font-weight="700" letter-spacing="2">FROM PARALLEL INSTITUTIONS</text>
+      <text x="24" y="91" fill="#f5f1e8" font-size="27" font-weight="700">RECORDS · MEMORY · FEDERATION · REPAIR</text>
+      <text x="24" y="137" class="card-body">Local power must coordinate without being</text>
+      <text x="24" y="169" class="card-body">absorbed by a new centre.</text>
+    </g>
+
+    <path d="M410 370V430H6480V370" fill="none" stroke="#4ee0c1" stroke-width="5" marker-end="url(#arrow-cyan)"/>
+    <g transform="translate(1640 470)">
+      <rect x="8" y="9" width="3755" height="205" rx="18" fill="#000000" opacity="0.35"/>
+      <rect x="0" y="0" width="3770" height="205" rx="18" fill="#4ee0c1"/>
+      <text x="1885" y="57" text-anchor="middle" fill="#071713" font-size="38" font-weight="700">THE ROOT PROBLEM IS NOT “WHICH ANSWER SHOULD RULE EVERYONE?”</text>
+      <text x="1885" y="108" text-anchor="middle" fill="#071713" font-size="38" font-weight="700">IT IS: “HOW CAN AFFECTED PEOPLE BUILD, AUTHORIZE, AND CORRECT ANSWERS TOGETHER?”</text>
+      <text x="1885" y="160" text-anchor="middle" fill="#164f43" font-size="25" font-weight="700">THE END OF THE LOOP IS NOT CERTAINTY. IT IS CORRECTABLE COLLECTIVE AGENCY.</text>
+    </g>
+  </g>
+
+  <text x="3600" y="4158" text-anchor="middle" class="mono" fill="#68747f" font-size="17" font-weight="700" letter-spacing="2.6">CONCEPTUAL MAP · REQUIREMENTS, NOT A CLAIM OF IMPLEMENTATION</text>
+</svg>
