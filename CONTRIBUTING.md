@@ -1,279 +1,278 @@
 # Contributing to A Universal Union
 
-Thank you for your interest in contributing to A Universal Union.
+Thank you for considering a contribution to A Universal Union (AUU).
 
-A Universal Union is an open civic infrastructure project. Its purpose is to help restore meaningful human agency within civilization by developing tools for deliberation, organization, polling, voting, delegation, challenge, auditability, memory, repair, and adaptive governance.
+AUU is an open proposal for shared civic infrastructure: tools that could help people and groups originate issues, deliberate, authorize limited action, delegate, act, record what happened, challenge failure, repair harm, and coordinate across communities without surrendering all local control.
 
-This project is still early. Much of the work is currently conceptual, architectural, ethical, and documentary. Contributions do not need to be perfect, technical, or large. A useful question, correction, criticism, example, diagram, issue, document edit, security concern, ethical objection, design challenge, or implementation proposal may all be valuable.
+The project is still conceptual, architectural, ethical, and research-oriented. No production platform exists. The documents define commitments, requirements, candidate approaches, and open questions; they do not prove that the proposed privacy, identity, voting, governance, moderation, accessibility, or federation designs can be built safely.
 
-The most important requirement is good faith.
+Contributions do not need to be technical, large, polished, or supportive. A question that exposes an ambiguity, a lived experience that reveals a false assumption, an accessibility concern, a source that weakens a claim, or an objection the current model cannot answer may be more valuable than a large implementation.
 
-Contributors are expected to help the project become clearer, safer, more accurate, more accountable, and more useful.
+The most important requirement is good faith. Good faith does not require agreement, and it does not make a claim correct. It means engaging honestly, making criticism specific enough to examine, accepting challenge in return, and helping the project become clearer, safer, more accurate, more accountable, or more useful.
+
+AUU cannot be a club for people who already agree.
+
+## Start with the model
+
+Begin with the root [Reader's Map](./README.md). It gives the shortest complete account of what AUU is, what it is not, how the civic cycle fits together, and which claims remain unproven.
+
+You are not expected to read every document before asking a question. Read enough to locate your concern and determine whether the project has already attempted to address it.
+
+| If your concern is mainly about… | Start with… |
+| --- | --- |
+| AUU's purpose or public case | [Mission Statement](./v5-documents/0.mission-statement.md) |
+| Values, rights, consent, privacy, power, or ethical tensions | [Ethical Discussion](./v5-documents/1.ethical-discussion.md) |
+| Required capabilities and their dependencies | [Feature Sets](./v5-documents/2.feature-sets.md) |
+| Research order, evidence gates, prototypes, pilots, or adoption | [Research and Development Strategy](./v5-documents/3.research-and-development-strategy.md) |
+| Membership, representation, institutions, authority, or federation | [Social Structures](./v5-documents/4.social-structures.md) |
+| Sources, evidence status, standards, and unanswered research questions | [Research Index](./v5-documents/5.research.md) |
+| Comprehension, accessibility, participant journeys, or interface requirements | [User Experience Requirements](./v5-documents/6.user-experience.md) |
+| Existing civic tools, demonstrated maturity, or possible reuse | [Tool and Platform Comparison](./v5-documents/7.tool-comparison.md) |
+| The project's controlled meaning of a term | [Glossary](./v5-documents/GLOSSARY.md) |
+
+If the relevant treatment exists but seems wrong, contradictory, incomplete, unsafe, difficult to find, or difficult to understand, that is still a valid contribution. Point to the passage and explain where it fails.
+
+## Ways to contribute
+
+AUU needs more than software. Useful contributions include:
+
+- asking a question that a first-time reader could reasonably ask;
+- identifying ambiguity, contradiction, repetition, jargon, or a misleading assurance;
+- documenting a lived failure, institutional process, or affected-person need;
+- reviewing accessibility, cognitive load, translation, low-bandwidth access, and assisted participation;
+- finding, classifying, verifying, or challenging evidence;
+- supplying counterevidence or an important minority interpretation;
+- writing scenarios, process models, requirements, threat cases, abuse cases, or test fixtures;
+- examining privacy, identity, recovery, voting, coercion, moderation, records, or security;
+- reviewing governance, law, rights, funding, conflicts of interest, operations, maintenance, exit, and remedy;
+- comparing existing tools or testing whether an open-source component can be reused;
+- improving prose, diagrams, examples, navigation, or controlled terminology;
+- testing whether a representative reader can accurately explain a consequential process; and
+- implementing a bounded artifact after its purpose, authority, dependencies, evidence needs, and test conditions are clear.
+
+Critics, researchers, designers, developers, organizers, security reviewers, governance thinkers, legal analysts, ethicists, translators, accessibility specialists, community members, and people who would be affected by such systems are all relevant contributors.
+
+Credentials may support a specialist claim, but they are not required to notice a real problem. Lived experience is evidence of an experience and its conditions; it is not automatically evidence that one explanation or universal remedy is correct. Both forms of knowledge should be stated with their limits.
+
+## Choose the right channel
+
+Use a **GitHub issue** to:
+
+- ask a question;
+- identify a problem, risk, contradiction, or missing case;
+- propose a substantial or controversial change;
+- request evidence or specialist review; or
+- begin a discussion that should leave a durable public record.
+
+Use a **pull request (PR)** when you have a concrete change to repository files. Small, focused PRs are easier to understand and review. A large, ethically significant, architectural, or uncertain change should normally begin as an issue.
+
+Use the [AUU Discord](https://discord.gg/5dsAEVt4Zy) for informal conversation, orientation, early ideas, and lower-friction contact. Discord is not the authoritative project record. A conclusion, objection, source, decision, or proposed rule that materially affects AUU should be carried back into a GitHub issue, PR, or repository document where it can be found and challenged later. Activity in Discord does not create decision authority.
+
+Public GitHub discussions and contributions are durable and searchable. Do not include private information, identifying details, protected records, credentials, secrets, or material you do not have permission to publish.
 
 ## New to GitHub?
 
-**GitHub** is a website used to collaborate on projects.
+You do not need to master Git before participating.
 
-A **repository** is the project folder. It is often called a **repo**. It contains files, documents, code, issues, and project history.
+| Term | Plain meaning |
+| --- | --- |
+| Repository or repo | The project folder, including its files and history. |
+| Issue | A public record for a question, problem, proposal, or discussion. |
+| Pull request or PR | A proposed set of changes that can be reviewed before it enters the main project. |
+| Fork | Your own GitHub copy of the repository. |
+| Branch | A separate line of work used to keep one change isolated. |
+| Commit | A saved change with a short explanation of what changed. |
 
-An **issue** is a public note about something that should be discussed, fixed, questioned, clarified, or improved. Issues are a good place to report problems, ask questions, suggest features, raise concerns, or start design discussions.
+If you can read a passage, notice a problem, and explain it, you can open an issue. For a small documentation correction, GitHub may also let you edit the file in the browser and propose the change directly.
 
-A **pull request** is a proposed change. It is often shortened to **PR**. A pull request lets you suggest edits to the project without changing the main version immediately. Other people can review the proposal, discuss it, request changes, and eventually merge it if it fits the project.
+## Before opening an issue or pull request
 
-A **fork** is your own copy of the project. You can freely edit your fork without affecting the original project. When your change is ready, you can open a pull request asking for your changes to be reviewed and possibly included.
+Make a reasonable effort to:
 
-A **branch** is a separate workspace inside a repository or fork. Branches let you work on one change at a time without mixing unrelated work together.
+1. Read the relevant part of the Reader's Map and specialist document.
+2. Search the repository and existing issues for the same concern.
+3. Identify the text, assumption, process, or missing case involved.
+4. Separate what you know from what you suspect or propose.
+5. Remove private, dangerous, or unnecessary personal information.
 
-A **commit** is a saved change. A **commit message** briefly explains what changed.
+This is not a test of whether you understand the whole project. Early questions and misunderstandings are useful evidence about the documents. The request is simply to engage with what is already present rather than assume the concern was never considered.
 
-You do not need to master Git or GitHub before participating. If you can read a document, notice a problem, and explain what you think should change, you can contribute.
+A weak issue says:
 
-## Read Before Opening an Issue
+> The system does not consider criminal misuse.
 
-Before opening an issue, contributors are expected to make a reasonable effort to read the relevant project documents.
+A stronger issue says:
 
-A Universal Union is a systems project. Many concerns that seem obvious at first glance may already be addressed in existing documents, handled indirectly by another part of the architecture, or identified as open problems.
+> The ethical and feature documents discuss harmful coordination, but I cannot determine how a protected pseudonym can be investigated without exposing unrelated participants. The current text may be missing the reviewer, evidence boundary, and appeal path.
 
-Before opening an issue, contributors should make a reasonable effort to:
+The stronger version gives other people something concrete to inspect. You do not need to know the solution before raising the problem.
 
-* read the most relevant document,
-* search the repository for related discussion,
-* check for existing issues,
-* or identify the specific section they believe is unclear, incomplete, mistaken, or insufficient.
+## Make the contribution reviewable
 
-Contributors do not need to understand the entire project before participating, and early questions are welcome. However, issues should avoid assuming a concern has not been considered without first checking the available material.
+For a significant issue or PR, answer whichever of these questions apply:
 
-If a topic has already been addressed, a useful issue should explain why the existing treatment seems unclear, insufficient, contradictory, incomplete, difficult to find, or difficult to understand.
+1. **Location:** Which file, section, process, claim, or open question does this concern?
+2. **Present model:** What do you understand the project to say now?
+3. **Problem:** What appears wrong, missing, unsafe, contradictory, or difficult to understand?
+4. **Consequence:** Who could be affected, and what could happen if the problem remains?
+5. **Basis:** Is this an ethical argument, experience, source, test result, threat hypothesis, technical analysis, or design preference?
+6. **Proposed response:** What should be clarified, researched, tested, changed, split, paused, or removed?
+7. **Uncertainty:** What remains unknown, disputed, or outside your expertise?
+8. **Conflicts:** Do you have a financial, professional, institutional, personal, or tool-related interest that may matter?
 
-For example, instead of opening an issue that says:
+Not every contribution needs a complete proposal. A well-bounded unresolved question is better than a confident answer that hides its assumptions.
 
-> The system does not seem to consider criminal misuse.
+Pull requests should:
 
-A better issue would say:
+- explain what changed and why;
+- avoid mixing unrelated changes;
+- preserve links and controlled terminology;
+- identify new claims that require evidence;
+- state which checks were performed;
+- update connected documents only when their meaning actually changes; and
+- remain understandable without requiring reviewers to reconstruct a private conversation.
 
-> I found the discussion of criminal misuse in the ethical discussion document and the feature set, but I still think the relationship between protected pseudonymity and public challenge is unclear. In particular, the existing section seems to address harmful coordination generally, but not this specific failure mode.
+A PR is a proposal, not a demand. Review may change it substantially.
 
-This kind of issue helps the project improve. It shows that the contributor has engaged with the existing work, identifies where the concern belongs, and gives maintainers something concrete to clarify, revise, or debate.
+## Evidence and claim discipline
 
-The basic expectation is simple:
+AUU distinguishes kinds of claims because they require different forms of support.
 
-Read first. Search second. Ask or challenge third.
+| Kind of claim | What a useful contribution should show |
+| --- | --- |
+| Ethical commitment | The value being defended, its boundary, the people affected, and the unresolved tension. |
+| Functional requirement | What must be possible, why it matters, its dependencies, and how success or failure could be recognized. |
+| Empirical or historical claim | A checked source, relevant context, limits, uncertainty, and known counterevidence. |
+| Threat hypothesis | The actor, capability, target, possible harm, assumptions, and uncertainty. |
+| Candidate approach | Why it may help, what it depends on, and what remains untested. |
+| Demonstrated capability | The exact artifact and version, test or deployment, population and setting, result, limitations, and independent review where available. |
+| Open question | What remains unresolved, why it blocks progress, and the next evidence, decision, or artifact needed. |
 
-## Simple Ways to Contribute
+A citation does not transfer the authority of a standards body, paper, product, or institution into AUU. “Described,” “implemented,” “tested,” “worked in one setting,” and “safe for this civic use” are different claims.
 
-The easiest way to contribute is to open an issue.
+Do not invent sources or cite material you have not checked. Verify that a source exists, says what you claim, and remains current. When evidence conflicts, represent the conflict. When the result is uncertain, say so. Negative results and invalidated assumptions are contributions.
 
-Use an issue when you want to:
+Do not convert a requirement into a guarantee. Words such as *anonymous*, *secure*, *private*, *verifiable*, *unbiased*, *cannot*, *always*, and *everyone* require a defined observer, threat model, context, and evidence.
 
-* ask a question,
-* report a problem,
-* suggest an improvement,
-* raise a concern,
-* identify a risk,
-* challenge a design choice,
-* or start a discussion.
+## Ethical, safety, and accessibility expectations
 
-If you want to directly change something in the repository, submit a pull request.
+AUU concerns civic power, identity, privacy, collective decisions, institutional accountability, and potentially vulnerable participants. Contributions should therefore consider not only whether something works, but who gains power, who carries risk, who is absent, and how mistakes can be challenged and repaired.
 
-Pull requests can be used for documentation, design proposals, diagrams, tests, code, accessibility improvements, or other changes to project files.
+The controlling ethical discussion is in [v5-documents/1.ethical-discussion.md](./v5-documents/1.ethical-discussion.md). In practical terms:
 
-Small, focused pull requests are preferred because they are easier to review and discuss.
+- Protect persons from unnecessary exposure.
+- Make exercised power appropriately visible and reviewable.
+- Do not confuse participation, membership, consent, representation, standing, delegation, authority, or recognition.
+- Preserve a meaningful path to question, correct, challenge, appeal, revoke, exit, or repair.
+- Do not treat a platform record as proof that the recorded claim is true or legitimate.
+- Do not hide coercion, exclusion, or unreviewable discretion behind a friendly interface or community label.
+- Do not use wealth, popularity, reputation, diagnosis, identity, or technical access as a substitute for civic worth.
+- Do not describe automated summaries, classifications, warnings, or rankings as neutral facts.
+- Do not publish harmful or identifying material merely because accountability requires a record.
+- Remain open to serious criticism, including criticism of the project's foundational commitments.
 
-## Basic Contribution Flow
+Accessibility is part of legitimacy, not final-stage polish. Review should include people who vary in literacy, disability, language, civic knowledge, digital experience, device and connection quality, available time, institutional trust, and personal exposure risk. A process that experts can operate but intended participants cannot understand is not ready.
 
-For small documentation edits, GitHub may allow you to edit files directly in the browser. That is often the easiest path for beginners.
+Proofreading can improve clarity. It cannot establish cryptographic feasibility, legal validity, coercion resistance, safe moderation, representative legitimacy, or an appropriate rights floor. Those claims require relevant specialists, affected people, explicit protocols, evidence, and independent challenge.
 
-A common contribution process looks like this:
+## How AI is used in AUU
 
-1. Find a file, issue, or idea you want to improve.
-2. Read the relevant material and search for related discussion.
-3. Open an issue first if the change is large, controversial, uncertain, or ethically significant.
-4. Fork the repository.
-5. Create a branch for your change.
-6. Make your edits.
-7. Commit your changes with a clear message.
-8. Open a pull request.
-9. Explain what you changed and why.
-10. Respond to review comments.
-11. Revise your pull request as needed.
+A project about reviewable power should describe its own production process honestly.
 
-A pull request is not a demand. It is a proposal. Review is part of the contribution process, and contributors remain responsible for the development and maintenance of their proposed changes throughout review.
+AUU is human-directed and heavily AI-assisted. Joshua Cooper originated and directs the project. He supplies and develops its conceptual model, priorities, examples, source material, constraints, objections, and judgments. He decides what work is accepted, changed, rejected, published, or removed, and he is responsible for the repository in its current form.
 
-## What Makes a Good Contribution?
+ChatGPT and Codex have played a substantial role. They have been used to:
 
-A good contribution should make the project easier to understand, safer to build, harder to misuse, or more aligned with its stated purpose.
+- explore and challenge concepts;
+- produce substantial first drafts and replacement passages;
+- restructure and compress documents;
+- compare repository versions and recover prior decisions;
+- audit consistency, terminology, claims, omissions, and unsafe assurances across files;
+- locate and summarize possible sources for human checking;
+- generate examples, tables, diagrams, and accessibility descriptions;
+- propose research, product, governance, and technical structures;
+- prepare repository-ready files, branches, commits, and patches; and
+- run mechanical checks such as link validation, rendering, and format inspection.
 
-Good contributions usually have at least one of these qualities:
+Some published passages and artifacts began largely as AI-generated drafts. Describing this only as spelling, grammar, or editing assistance would understate the role. Describing AI as the project author, authority, or independent decision-maker would also be inaccurate.
 
-* They clarify an idea.
-* They reduce ambiguity.
-* They identify a real failure mode.
-* They improve ethical accountability.
-* They make the project easier for ordinary people to understand.
-* They make the project harder to capture, manipulate, or abuse.
-* They improve technical correctness.
-* They improve accessibility.
-* They preserve privacy for persons while improving accountability for power.
-* They help disagreement become more structured, contestable, and useful.
+ChatGPT and Codex did not originate AUU, possess civic standing, represent affected communities, verify a claim merely by stating it, or assume responsibility for the consequences of the design. They can produce confident errors, false synthesis, fabricated details, flattened disagreement, and prose that appears more settled than the evidence. Their output is material for judgment, not a source of legitimacy.
 
-Contributors do not need to agree with every existing document. Good-faith disagreement is welcome. A Universal Union should be able to receive criticism without treating criticism as hostility.
+Joshua's acceptance of AI-assisted work establishes what the repository currently says. It does not establish that the claim is true, feasible, safe, democratic, or complete. Merge history is a record of project decisions, not proof of the model.
 
-## Ethical Expectations
+The current division of work also creates risks: dependence on one maintainer, dependence on commercial AI systems, uneven independent review, inherited model bias, and a volume of prose that can exceed available human scrutiny. Contributions that expose those risks, reconstruct the model independently, or provide qualified review are especially valuable.
 
-A Universal Union is not only a technical project. It is a project about civic power, privacy, identity, trust, collective decision-making, institutional accountability, and the long-term coordination of human societies.
+## AI use in contributions
 
-If successful, the systems discussed here may eventually affect communities, institutions, regions, nations, and potentially billions of interconnected lives. Contributions should therefore be approached with an appropriate sense of seriousness, care, and responsibility.
+Contributors may use AI, but remain responsible for everything they submit.
 
-Contributors should consider not only whether a proposal works, but also how it affects incentives, power, accountability, privacy, safety, and the ability of people to participate meaningfully in civic life.
+Before submitting material AI helped shape:
 
-A few principles are especially important:
+- read and understand the result;
+- verify important factual and source-dependent claims;
+- test code and technical assertions at a level appropriate to the risk;
+- revise errors, false confidence, repetition, and hidden assumptions;
+- check that affected people and serious objections have not been synthesized away;
+- avoid uploading private, confidential, identifying, or security-sensitive material without authorization; and
+- be able to explain and defend the submitted result without appealing to the AI's authority.
 
-* Protect people. Do not expose individuals unnecessarily or treat privacy as an obstacle to be removed.
-* Make power accountable. Avoid designs that make institutions, delegates, organizations, or collective actors harder to challenge or audit.
-* Respect consent. Do not assume people should be represented, analyzed, exposed, or bound by systems they did not meaningfully agree to participate in.
-* Design for disagreement. The project should help people contest decisions, challenge assumptions, and resolve disputes without requiring uniform beliefs.
-* Preserve peaceful recourse. Contributions should strengthen the ability to challenge, correct, revise, appeal, audit, and repair systems without requiring destructive conflict.
-* Remain open to revision. No document, contributor, maintainer, institution, technology, or AI system should be treated as beyond criticism.
+Meaningful AI use should be disclosed in the issue or PR. Minor spelling, formatting, or autocomplete assistance does not need a formal declaration. If AI materially shaped the reasoning, wording, code, research process, diagrams, or tests, briefly state what it did and what you checked.
 
-Contributions may be rejected if they would undermine privacy, enable abuse, conceal power from accountability, create unnecessary exposure, manipulate civic processes, or conflict with the project’s ethical commitments.
+For example:
 
-## AI Use, Responsibility, and Disclosure
+> **AI use:** ChatGPT helped draft sections 2–4 and compare terminology across the v5 documents. I reviewed and revised the text, checked the cited sources directly, and remain uncertain about the voting-security claim identified in the PR.
 
-AI tools may be used in contributions to A Universal Union.
-
-This project does not treat AI use as inherently good or inherently bad. AI is a tool. Like any tool, its value depends on how it is used and whether the resulting work remains accountable, reviewable, and understandable.
-
-Contributors may use AI for:
-
-* brainstorming,
-* outlining,
-* drafting,
-* editing,
-* summarizing,
-* analysis,
-* translation,
-* accessibility improvements,
-* code scaffolding,
-* test generation,
-* documentation drafts,
-* design exploration,
-* adversarial review,
-* and comparison of alternative approaches.
-
-Contributors remain responsible for everything they submit.
-
-AI should not be treated as an authoritative source. Its outputs should be approached critically and reviewed with appropriate skepticism. Some AI-generated material may be obviously incorrect. Other material may appear convincing while containing subtle errors, omissions, unsupported assumptions, fabricated citations, or flawed reasoning.
-
-The level of verification required depends on the nature of the contribution. A wording suggestion may only require careful reading. A technical claim, governance proposal, legal assertion, security recommendation, historical statement, or scientific claim may require independent verification, testing, research, or expert review.
-
-Before submitting AI-assisted work, contributors should:
-
-* read it,
-* understand it,
-* review it for accuracy,
-* revise it where necessary,
-* verify important claims,
-* and accept responsibility for its contents.
-
-Do not use AI to:
-
-* fabricate citations, evidence, or research,
-* impersonate another person,
-* conceal responsibility for a contribution,
-* generate large volumes of low-quality content,
-* or expose private, sensitive, confidential, or security-relevant information without authorization and careful consideration of the risks.
-
-## A Practical Example of Responsible AI Use
-
-A contributor might use AI as part of an iterative drafting and review process:
-
-1. Draft a document or proposal.
-2. Ask the AI to identify weaknesses, ambiguity, omissions, contradictions, risks, or alternative approaches.
-3. Review the feedback manually.
-4. Accept, reject, or revise the feedback according to their own judgment.
-5. Revise the material.
-6. Repeat until further review produces little additional value.
-
-In this workflow, AI is acting primarily as a drafting, editing, and review assistant. The contributor remains responsible for the ideas, judgments, revisions, acceptance decisions, and final submission.
-
-This is also how AI has been used by the project maintainer. ChatGPT has been used extensively in the development of A Universal Union for drafting, editing, summarization, design exploration, critique, comparison of alternatives, and review of project documents. That use should be understood as tool-assisted project development, not autonomous authorship. AI outputs are reviewed, questioned, revised, rejected, or manually rewritten as needed. The maintainer remains responsible for what is accepted into the project.
-
-The important question is not whether AI participated in the process. The important question is whether a human contributor understands, reviews, revises, and has the capacity to accept responsibility for the final result, which requires understanding what they are accepting responsibility for.
-
-## Disclosure Expectations
-
-Disclosure should normally take place in the pull request (PR) where the contribution is proposed. Contributors are not expected to disclose every minor or incidental use of AI; routine assistance such as basic writing or editing support does not require formal disclosure. However, contributors are encouraged to be transparent when AI has played a meaningful role in shaping the content or substance of their contribution.
-
-Disclosure does not usually need to be added directly to the files themselves unless the PR determines that it is necessary for clarity, authorship, or interpretation.
-
-A brief note in the PR is sufficient. For example:
-
-> AI assistance was used for drafting and editing. The submitted material has been reviewed and accepted by the contributor.
-
-Or:
-
-> AI assistance was used to generate an initial code draft. The code was reviewed, tested, and modified before submission.
-
-Or:
-
-> AI assistance was used as part of an iterative drafting and review process. The contributor reviewed and revised the material and accepts responsibility for the final version.
+Do not use AI to fabricate citations or evidence, impersonate another person, conceal responsibility, mass-produce low-quality submissions, or convert private conversation into public material without permission.
 
 The goal of disclosure is accountability, not stigma.
 
-## Sources, Evidence, and Claims
+## Security-sensitive concerns
 
-Contributors should distinguish between opinion, interpretation, speculation, design preference, technical claim, legal claim, scientific claim, historical claim, and ethical argument.
+Architectural security concerns, threat-model gaps, privacy risks, and abuse scenarios can usually be discussed in public issues. Do not publicly post:
 
-Claims that depend on external facts should be supported with sources where possible.
+- usable exploit instructions against a live system;
+- private keys, credentials, secrets, or sensitive configuration;
+- personal information or identity mappings;
+- protected evidence; or
+- operational detail that would materially enable real harm.
 
-Do not invent sources.
+AUU does not currently have a formal private vulnerability-reporting program. If a concern cannot be described safely in public, open an issue containing only a high-level, non-exploitable description and ask for a private reporting route. Do not send the sensitive details until an appropriate route and recipient are confirmed.
 
-Do not cite sources you have not checked.
+This is an early documentation project, not a deployed platform. A private reporting process, response ownership, and disclosure policy must be established before AUU handles production code, live credentials, sensitive civic data, or real participants.
 
-Do not use AI-generated citations unless you verify that the source exists and actually supports the claim.
+## Review, disagreement, and project authority
 
-When sources disagree, represent the disagreement honestly.
+AUU is presently directed and maintained primarily by Joshua Cooper, with extensive AI assistance and limited independent review. There is no claim that the current repository represents a community mandate, expert consensus, or implemented institution.
 
-When a claim is uncertain, say so.
+Not every contribution will be accepted. A proposal may be declined, postponed, split, or redirected because it is unsupported, unsafe, out of scope, too broad, difficult to maintain, premature for the current research stage, or inconsistent with a stated commitment. A merge means the contribution fits the project's present direction; it does not make the contribution true or permanently settled.
 
-## Security-Sensitive Issues
+Review capacity is limited. Response times may vary, and some claims cannot responsibly be accepted until an appropriate specialist or affected-person review is available.
 
-Security concerns are welcome, but they should be raised responsibly.
+Strong disagreement is welcome. Personal attacks, harassment, threats, deliberate deception, spam, and unnecessary hostility are not. Good criticism identifies what is wrong, why it matters, and what evidence, clarification, test, or change may improve it. Criticism does not need to protect the project from discomfort.
 
-Architectural security concerns, threat-model gaps, privacy risks, and abuse scenarios may usually be discussed in public issues. However, contributors should not publicly post exploit instructions, private keys, personal information, sensitive identity mappings, active abuse techniques, or details that would make a real attack easier to perform.
+Where a serious objection cannot be resolved, preserving the objection and the reason for the decision is preferable to manufacturing agreement.
 
-If a private security reporting channel does not yet exist, contributors should describe the concern at a high level first and ask how to report sensitive details safely.
+## Basic pull-request flow
 
-## Discussion and Review
+For a direct repository change:
 
-Not every contribution will be accepted.
+1. Open an issue first if the change is large, controversial, uncertain, or ethically consequential.
+2. Fork the repository and create a focused branch.
+3. Make and check the change.
+4. Commit it with a clear message.
+5. Open a pull request explaining the purpose, scope, evidence, uncertainty, tests, and any meaningful AI use.
+6. Respond to review and revise the proposal where appropriate.
 
-A contribution may be rejected because it is out of scope, unclear, too broad, technically unsafe, difficult to maintain, premature for the current stage of the project, or inconsistent with the project's goals.
+Contributors remain responsible for the work they submit and for explaining it during review. If a contribution would require continuing maintenance, state who is expected to provide it.
 
-Rejection of a contribution is not rejection of the contributor.
+## Rights and licensing
 
-Strong disagreement is acceptable. Personal attacks, bad-faith behavior, and unnecessary hostility are not.
+Submit only material you have the right to contribute. By submitting a contribution, you agree that it may be distributed under the repository's [license](./LICENSE). Identify third-party material and its license; do not copy material whose terms are incompatible or unknown.
 
-Good criticism explains what is wrong, why it matters, and what might improve it.
+## Final note
 
-Large or controversial changes should usually begin as issues before becoming pull requests.
+A Universal Union is about building civic systems that can be understood, challenged, corrected, and improved. Its contribution process should attempt the same.
 
-## Discord and Future Collaboration Spaces
+Bring questions. Bring criticism. Bring corrections. Bring evidence. Bring lived experience. Bring proposals. Bring caution. Bring imagination.
 
-At the current stage, GitHub is the primary place for project contribution.
-
-A Discord or similar real-time collaboration space may be created later if there are enough active contributors to justify the effort of designing and moderating it well.
-
-This is intentional. A collaboration space should not be created merely to appear active. Real-time communities require moderation, norms, onboarding, safety expectations, and attention. Creating one too early can waste energy or create avoidable governance problems.
-
-For now, GitHub issues and pull requests provide a slower, more reviewable, more durable record of project discussion and contribution.
-
-## Final Note
-
-A Universal Union is a project about building civic systems that can be challenged, corrected, and improved.
-
-The contribution process should reflect that.
-
-Bring questions. Bring criticism. Bring corrections. Bring proposals. Bring caution. Bring imagination.
-
-But bring responsibility, too.
+But bring responsibility too.
