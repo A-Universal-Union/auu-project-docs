@@ -8,6 +8,8 @@ The project is still conceptual, architectural, ethical, and research-oriented. 
 
 Contributions do not need to be technical, large, polished, or supportive. A question that exposes an ambiguity, a lived experience that reveals a false assumption, an accessibility concern, a source that weakens a claim, or an objection the current model cannot answer may be more valuable than a large implementation.
 
+A GitHub account is not required. If someone invited you by email, you can reply with questions, review notes, proposed wording, or an attached file. You can also participate through the [AUU Discord](https://discord.gg/5dsAEVt4Zy). Contributors who already use GitHub may open issues or pull requests instead.
+
 The most important requirement is good faith. Good faith does not require agreement, and it does not make a claim correct. It means engaging honestly, making criticism specific enough to examine, accepting challenge in return, and helping the project become clearer, safer, more accurate, more accountable, or more useful.
 
 AUU cannot be a club for people who already agree.
@@ -56,7 +58,13 @@ Credentials may support a specialist claim, but they are not required to notice 
 
 ## Choose the right channel
 
-Use a **GitHub issue** to:
+If someone invited you by email, replying to that message is the simplest route. You may write informally, paste completed review notes, suggest replacement wording, or attach a document. No knowledge of Git or GitHub is expected.
+
+Use the [AUU Discord](https://discord.gg/5dsAEVt4Zy) for informal conversation, orientation, early ideas, and lower-friction contact. Discord is not the authoritative project record. A conclusion, objection, source, decision, or proposed rule that materially affects AUU should eventually be preserved in the repository, but the person who first raised it does not need to perform that transfer.
+
+If emailed or Discord feedback should become part of the durable project record, AUU will ask whether it may be quoted, summarized, and attributed before transferring it. A contributor may ask to remain unnamed.
+
+If you already use GitHub, use a **GitHub issue** to:
 
 - ask a question;
 - identify a problem, risk, contradiction, or missing case;
@@ -64,15 +72,13 @@ Use a **GitHub issue** to:
 - request evidence or specialist review; or
 - begin a discussion that should leave a durable public record.
 
-Use a **pull request (PR)** when you have a concrete change to repository files. Small, focused PRs are easier to understand and review. A large, ethically significant, architectural, or uncertain change should normally begin as an issue.
-
-Use the [AUU Discord](https://discord.gg/5dsAEVt4Zy) for informal conversation, orientation, early ideas, and lower-friction contact. Discord is not the authoritative project record. A conclusion, objection, source, decision, or proposed rule that materially affects AUU should be carried back into a GitHub issue, PR, or repository document where it can be found and challenged later. Activity in Discord does not create decision authority.
+Use a **pull request (PR)** when you have a concrete change to repository files and are comfortable using GitHub. Small, focused PRs are easier to understand and review. A large, ethically significant, architectural, or uncertain change should normally begin as an issue.
 
 Public GitHub discussions and contributions are durable and searchable. Do not include private information, identifying details, protected records, credentials, secrets, or material you do not have permission to publish.
 
-## New to GitHub?
+## If you want to use GitHub
 
-You do not need to master Git before participating.
+GitHub is optional. You can participate by replying to an invitation or using Discord. If you want to create a public issue or submit a pull request yourself, you will need a free GitHub account, but you do not need to master Git before participating.
 
 | Term | Plain meaning |
 | --- | --- |
@@ -83,7 +89,7 @@ You do not need to master Git before participating.
 | Branch | A separate line of work used to keep one change isolated. |
 | Commit | A saved change with a short explanation of what changed. |
 
-If you can read a passage, notice a problem, and explain it, you can open an issue. For a small documentation correction, GitHub may also let you edit the file in the browser and propose the change directly.
+If you can read a passage, notice a problem, and explain it, you can contribute. Send the observation by email reply or Discord, or open an issue if you use GitHub. For a small documentation correction, GitHub may also let you edit the file in the browser and propose the change directly.
 
 ## Before opening an issue or pull request
 
@@ -179,7 +185,7 @@ Proofreading can improve clarity. It cannot establish cryptographic feasibility,
 
 A project about reviewable power should describe its own production process honestly.
 
-AUU is human-directed and heavily AI-assisted. Joshua Cooper originated and directs the project. He supplies and develops its conceptual model, priorities, examples, source material, constraints, objections, and judgments. He decides what work is accepted, changed, rejected, published, or removed, and he is responsible for the repository in its current form.
+AUU is human-directed and heavily AI-assisted. Joshua originated and directs the project. He supplies and develops its conceptual model, priorities, examples, source material, constraints, objections, and judgments. He decides what work is accepted, changed, rejected, published, or removed, and he is responsible for the repository in its current form.
 
 ChatGPT and Codex have played a substantial role. They have been used to:
 
@@ -242,7 +248,7 @@ This is an early documentation project, not a deployed platform. A private repor
 
 ## Review, disagreement, and project authority
 
-AUU is presently directed and maintained primarily by Joshua Cooper, with extensive AI assistance and limited independent review. There is no claim that the current repository represents a community mandate, expert consensus, or implemented institution.
+AUU is presently directed and maintained primarily by Joshua, with extensive AI assistance and limited independent review. There is no claim that the current repository represents a community mandate, expert consensus, or implemented institution.
 
 Not every contribution will be accepted. A proposal may be declined, postponed, split, or redirected because it is unsupported, unsafe, out of scope, too broad, difficult to maintain, premature for the current research stage, or inconsistent with a stated commitment. A merge means the contribution fits the project's present direction; it does not make the contribution true or permanently settled.
 

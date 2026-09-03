@@ -1,0 +1,100 @@
+name: Review feedback
+description: Report what AUU communicates well or where it becomes unclear, unsafe, unsupported, inaccessible, contradictory, or incomplete.
+title: "[Review] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for testing A Universal Union. Agreement is not required, and partial reviews are useful. Do not include private information, identifying details, credentials, protected records, exploit instructions, or material you do not have permission to publish.
+
+  - type: dropdown
+    id: route
+    attributes:
+      label: Review route
+      description: Which review route did you use?
+      options:
+        - Quick diagram check
+        - First-read comprehension
+        - Focused document review
+        - Whole-set reconstruction
+        - Another approach
+    validations:
+      required: true
+
+  - type: input
+    id: material
+    attributes:
+      label: Material reviewed
+      description: Name the diagram, document, section, claim, or process you inspected.
+      placeholder: "For example: README.md and the functional model diagram"
+    validations:
+      required: true
+
+  - type: textarea
+    id: understanding
+    attributes:
+      label: What I understood
+      description: Briefly explain what you think the material says before describing the finding.
+    validations:
+      required: true
+
+  - type: textarea
+    id: finding
+    attributes:
+      label: Finding
+      description: What appeared unclear, unsafe, unsupported, inaccessible, contradictory, missing, or especially strong?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: categories
+    attributes:
+      label: Finding category
+      description: Select every category that applies.
+      multiple: true
+      options:
+        - Comprehension failure
+        - Ambiguity
+        - Contradiction
+        - Accessibility barrier
+        - Unsupported claim
+        - Threat or abuse case
+        - Missing affected perspective
+        - Evidence need
+        - Design alternative
+        - Confirmed strength
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: consequence
+    attributes:
+      label: Why it matters
+      description: Who could be affected, and what could happen if the finding is not addressed?
+
+  - type: textarea
+    id: basis
+    attributes:
+      label: Basis and limits
+      description: State the basis of the review and anything you remain uncertain about. This may include a first reading, lived experience, professional knowledge, a source, a test, or a hypothesis.
+
+  - type: textarea
+    id: response
+    attributes:
+      label: Suggested response
+      description: If you have one, suggest what should be clarified, researched, tested, changed, preserved, or removed.
+
+  - type: textarea
+    id: viewing_conditions
+    attributes:
+      label: Device or viewing conditions
+      description: For a diagram or accessibility review, include the device, browser, viewport or screen, zoom, assistive technology, and whether you opened the SVG directly.
+
+  - type: checkboxes
+    id: publication_check
+    attributes:
+      label: Public-submission check
+      options:
+        - label: I have removed private, identifying, protected, dangerous, or unauthorized material from this public issue.
+          required: true

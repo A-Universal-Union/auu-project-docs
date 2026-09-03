@@ -1,6 +1,8 @@
 # A Universal Union v5: Reader's Map
 
-**Status:** Concept draft
+**Status:** Conceptual and architectural draft published for independent review.
+
+**Current phase:** External review and recruitment. AUU needs people to inspect the proposal—not endorse it. Choose a bounded route in [Review A Universal Union](./REVIEW.md).
 
 **Start here:** This file gives the whole model before the longer documents add detail.
 
@@ -145,8 +147,17 @@ These documents can define commitments and requirements. They cannot prove that 
 
 The intended destination is not a perfect ruler. It is a correctable way for people to rule together—without making any institution the only court allowed to hear its own appeal.
 
-## Contribute and discuss
+## Review, contribute, and discuss
 
-AUU is a working design space. Questions, critiques, corrections, research, accessibility review, threat analysis, comparisons, and implementation experiments are welcome.
+You do not need to agree with AUU, read the entire repository, or have a GitHub account to participate.
 
-Read [how to contribute](./CONTRIBUTING.md) before opening an issue or proposing a major revision. For less formal conversation, join the [AUU Discord](https://discord.gg/5dsAEVt4Zy).
+| What you want to do | How to do it |
+| --- | --- |
+| Review the proposal | Choose a bounded route in [Review A Universal Union](./REVIEW.md). If someone invited you by email, reply directly with your notes. Otherwise, share them in the [AUU Discord](https://discord.gg/5dsAEVt4Zy). No special format is required. |
+| Ask a question or discuss an early idea | Reply to the person who invited you or use the [AUU Discord](https://discord.gg/5dsAEVt4Zy). |
+| Suggest a correction or concrete change | Send the proposed wording or file by email reply or through Discord. Read [how to contribute](./CONTRIBUTING.md) for guidance on making the change understandable and reviewable. |
+| Create a durable public record through GitHub | If you already have a GitHub account, use the optional [Review feedback form](https://github.com/A-Universal-Union/auu-project-docs/issues/new?template=review-feedback.yml), open a [general issue](https://github.com/A-Universal-Union/auu-project-docs/issues/new), or submit a pull request. |
+
+Feedback sent by email or Discord is not automatically copied into the public repository. If it should become part of the durable project record, AUU will ask whether it may be quoted, summarized, and attributed before transferring it. A reviewer may ask to remain unnamed.
+
+Do not send private information, credentials, protected records, exploit instructions, or material you do not have permission to share. If you are unsure where something belongs, reply to the invitation or ask in Discord.

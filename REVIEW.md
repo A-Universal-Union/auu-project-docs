@@ -4,6 +4,8 @@ AUU needs independent readers before it needs agreement. The useful question is 
 
 No production system exists. These are concept, requirements, and research documents. A review does not endorse the project, and you do not need to read the entire repository to contribute.
 
+A GitHub account is not required. If someone invited you by email, you can reply directly with your review. You can also share it in the [AUU Discord](https://discord.gg/5dsAEVt4Zy). GitHub is available as an optional public record for people who already use it.
+
 ## Choose a review route
 
 | Route | Read or inspect | What to report |
@@ -59,7 +61,24 @@ Do not force the comprehensive diagnostic into one screen. Test whether opening 
 
 ## Submit feedback
 
-Open a GitHub issue using the **Review feedback** template. If GitHub is a barrier, start in the [AUU Discord](https://discord.gg/5dsAEVt4Zy); a consequential finding should later be transferred into a durable repository record.
+No special format or GitHub account is required. Use as much of this short response template as is useful:
+
+```text
+Reviewed:
+Review route:
+What I understood:
+What appeared unclear, unsafe, unsupported, missing, or especially strong:
+Why it matters:
+Basis and limits of my assessment:
+Suggested response, if any:
+Device or viewing conditions, if relevant:
+```
+
+If someone invited you by email, reply directly and include your notes in the message or an attachment. Otherwise, share them in the [AUU Discord](https://discord.gg/5dsAEVt4Zy). Rough notes, partial answers, and an explanation of where you stopped are all useful.
+
+If you already have a GitHub account and want to create a durable public record yourself, use the optional [Review feedback form](https://github.com/A-Universal-Union/auu-project-docs/issues/new?template=review-feedback.yml).
+
+Feedback sent by email or Discord is not automatically copied into the public repository. If a finding should become part of the durable project record, AUU will ask whether it may be quoted, summarized, and attributed before transferring it. You may ask to remain unnamed.
 
 Do not include private information, identifying details, protected records, credentials, exploit instructions, or material you do not have permission to publish. A high-level description is enough when detail would create risk.
 
