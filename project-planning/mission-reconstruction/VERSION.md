@@ -2,9 +2,9 @@
 
 **Document:** Mission Reconstruction Review
 
-**Version:** 0.1.0-draft.2
+**Version:** 0.1.0-draft.3
 
-**Status:** Source inventory and root README audit ready for author review
+**Status:** Initial handoff planning milestone complete; awaiting author review
 
 **Scope:** This review directory, including its chapters and supporting inventories
 

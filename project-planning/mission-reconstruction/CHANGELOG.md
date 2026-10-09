@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.1.0-draft.3 — 2026-10-09
+
+### Added
+
+- Proposed mission thesis and six-chapter outline with actual subsection links in the planning document.
+- Collection README proposal, mission prose preservation map, navigation specification, and draft-version recommendation.
+- Baseline inventory of 83 v5-document/diagram references and a staged migration/cutover plan.
+- Open authorial decisions and separately scoped cross-document recommendations.
+
+### Boundary
+
+- Completed the initial planning milestone. No mission scaffold, full manuscript, public README rewrite, canonical migration, release, or push is included.
+
 ## 0.1.0-draft.2 — 2026-10-09
 
 ### Added

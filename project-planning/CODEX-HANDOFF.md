@@ -128,3 +128,7 @@ Use precise references, and indicate uncertainty. The schema is an editorial too
 - Any chapter already populated contains navigation at both ends; first/last boundary behavior is correct.
 - The report states what was inspected, changed, deferred, unverified, and what approval is needed next.
 - No release, push, broad rename, or substantive philosophical rewrite occurs without a separate instruction.
+
+## 8. Initial milestone review package
+
+The [Mission Reconstruction Review](mission-reconstruction/README.md) records the October 9, 2026 source inventory, root README audit, proposed mission outline, and migration/link plan. It uses repository baseline `ef4d1997eaac4f17d07731dd0c8e4c366a2d3487` and preserves the current public documents. Its recommendations await author review; the manuscript, scaffold, root rewrite, and canonical cutover have not been executed.

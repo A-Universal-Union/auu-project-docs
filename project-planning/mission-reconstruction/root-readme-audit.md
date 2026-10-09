@@ -2,7 +2,7 @@
 
 | Previous | Contents | Next |
 | :--- | :---: | ---: |
-| [Source inventory](source-inventory.md) | [Review contents](README.md) | — |
+| [Source inventory](source-inventory.md) | [Review contents](README.md) | [Mission outline](mission-outline.md) |
 
 ## Recommendation
 
@@ -72,4 +72,4 @@ For review of the eventual draft, use the existing [first-read questions](../../
 
 | Previous | Contents | Next |
 | :--- | :---: | ---: |
-| [Source inventory](source-inventory.md) | [Review contents](README.md) | — |
+| [Source inventory](source-inventory.md) | [Review contents](README.md) | [Mission outline](mission-outline.md) |
