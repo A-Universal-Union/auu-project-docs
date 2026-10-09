@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.1.0-draft.2 — 2026-10-09
+
+### Added
+
+- Disposition map for the root orientation block, eleven sections, and five nested distinctions.
+- Proposed shorter root structure, diagram/example preservation plan, and comprehension review criteria.
+
+### Preserved
+
+- The public root README in full; the audit is a proposal rather than a rewrite.
+
 ## 0.1.0-draft.1 — 2026-10-09
 
 ### Added

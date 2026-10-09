@@ -2,7 +2,7 @@
 
 | Previous | Contents | Next |
 | :--- | :---: | ---: |
-| — | [Review contents](README.md) | — |
+| — | [Review contents](README.md) | [Root README audit](root-readme-audit.md) |
 
 ## Finding and scope
 
@@ -73,4 +73,4 @@ This inventory verifies repository provenance and compares arguments. It does no
 
 | Previous | Contents | Next |
 | :--- | :---: | ---: |
-| — | [Review contents](README.md) | — |
+| — | [Review contents](README.md) | [Root README audit](root-readme-audit.md) |

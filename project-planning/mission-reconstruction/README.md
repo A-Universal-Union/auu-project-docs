@@ -14,10 +14,13 @@ This is an editorial review package for the [handoff](../CODEX-HANDOFF.md), insp
 | ↳ [Verified sources](source-inventory.md#verified-sources) | Identify the inspected snapshots, exact source locations, and limits of the comparison. |
 | ↳ [Argument inventory](source-inventory.md#argument-inventory) | Map retained, weakened, altered, and absent ideas to the six proposed chapters. |
 | ↳ [Conflicts and editorial decisions](source-inventory.md#conflicts-and-editorial-decisions) | Expose disagreements requiring an explicit treatment in the future manuscript. |
+| [Root Reader's Map audit](root-readme-audit.md) | Shorten repetition while preserving a complete first explanation of AUU. |
+| ↳ [Section disposition map](root-readme-audit.md#section-disposition-map) | Account for every current section before any public rewrite. |
+| ↳ [Proposed root structure](root-readme-audit.md#proposed-root-structure) | Place the proposal, civic model, safeguards, and participation routes in a scannable progression. |
 
 ## Review status
 
-Source inspection and the argument inventory form the first reviewable stage. The root README audit and architecture/link proposal are the next stages of this package. The full manuscript, mission scaffold, public README rewrite, canonical cutover, and other document migrations remain separate work.
+Source inspection, the argument inventory, and the root README audit are ready for author review. The architecture/link proposal is the next stage of this package. The full manuscript, mission scaffold, public README rewrite, canonical cutover, and other document migrations remain separate work.
 
 [Document version](VERSION.md) · [Change history](CHANGELOG.md) · [Current Reader's Map](../../README.md)
 
