@@ -2,7 +2,7 @@
 
 ## Thesis
 
-**Status: Incomplete draft for author review.** Chapters I–III are drafted; Chapters IV–VI remain outlines. The [current mission](../../v5-documents/0.mission-statement.md) remains canonical; this directory is the workspace for the expanded mission.
+**Status: Incomplete draft for author review.** Chapters I–IV are drafted; Chapters V–VI remain outlines. The [current mission](../../v5-documents/0.mission-statement.md) remains canonical; this directory is the workspace for the expanded mission.
 
 A Universal Union begins with faith in humanity. People deserve a meaningful part in shaping the world they have to live in: room to think, disagree, bring forward a concern, and find others prepared to act. Their dignity cannot depend on how useful, popular, or easy to manage they happen to be.
 
@@ -29,9 +29,11 @@ Human dignity and relationships give the work its purpose. The designs proposed 
 | ↳ [Power and civic capacity](03-civilizational-problem.md#power-and-civic-capacity) | Follow the gap between communicating a concern and having the time, resources, and access to pursue it. | Draft |
 | ↳ [The conditions we reproduce](03-civilizational-problem.md#the-conditions-we-reproduce) | Ask what institutions reward and what it costs people to act differently. | Draft |
 | ↳ [Organizing for correction](03-civilizational-problem.md#organizing-for-correction) | Connect peaceful influence to action, answerability, and knowledge people can carry into the next effort. | Draft |
-| **IV. [The Evolution of Collective Wisdom](04-collective-wisdom.md)** | Explore how communities could cooperate and learn from experience and one another. | Outline |
-| ↳ [Learning across disagreement](04-collective-wisdom.md#learning-across-disagreement) | Make room for experiments, borrowing useful ideas, failure, and continued dissent. | Outline |
-| ↳ [Memory and peaceful correction](04-collective-wisdom.md#memory-and-peaceful-correction) | Keep enough of what happened to learn from consequences, hold people answerable, and repair harm. | Outline |
+| **IV. [The Evolution of Collective Wisdom](04-collective-wisdom.md)** | Develop how communities could learn from attempts, preserve useful experience, and cooperate while remaining different. | Draft |
+| ↳ [Learning across disagreement](04-collective-wisdom.md#learning-across-disagreement) | Bring different kinds of knowledge to a shared problem without expecting every conflict to disappear. | Draft |
+| ↳ [Trying something and finding out](04-collective-wisdom.md#trying-something-and-finding-out) | Examine a policy experiment's authority, promises, consequences, and reasons to change course. | Draft |
+| ↳ [Memory and peaceful correction](04-collective-wisdom.md#memory-and-peaceful-correction) | Let later efforts use what earlier ones learned, while protecting people and keeping repair possible. | Draft |
+| ↳ [Learning without becoming the same](04-collective-wisdom.md#learning-without-becoming-the-same) | Carry useful practices across communities without assuming inevitable progress or a single political destination. | Draft |
 | **V. [Civic Infrastructure](05-civic-infrastructure.md)** | Explain how a concern could lead to peaceful action, who may authorize it, and how failure could be challenged. | Outline |
 | ↳ [From concern to accountable action](05-civic-infrastructure.md#from-concern-to-accountable-action) | Follow the nine civic functions and the human work needed to carry a decision through. | Outline |
 | ↳ [Trust mechanisms and their limits](05-civic-infrastructure.md#trust-mechanisms-and-their-limits) | Examine witnessed connections and trust graphs as proposals that still need research. | Outline |
@@ -42,7 +44,7 @@ Human dignity and relationships give the work its purpose. The designs proposed 
 
 ## Draft scope and provenance
 
-The initial phase created the structure and drafted Chapters I–II. Following a review of the form and voice, the author authorized a focused pacing revision to Chapter II and drafting Chapters III–IV. The pacing revision and Chapter III are complete for review; Chapters IV–VI currently remain outlines. Chapter V's outline retains the design questions separated from Chapter II. The [review package](../../project-planning/mission-reconstruction/README.md) holds the historical inventory, source preservation map, and migration proposal. The author's October 10, 2026 naming instruction replaces the earlier unnumbered proposal with `01-` through `06-` prefixes; filenames remain stable across ordinary revisions.
+The initial phase created the structure and drafted Chapters I–II. Following a review of the form and voice, the author authorized a focused pacing revision to Chapter II and drafting Chapters III–IV. That phase is complete for review. Chapters V–VI remain outlines; Chapter V retains the design questions separated from Chapter II. The [review package](../../project-planning/mission-reconstruction/README.md) holds the historical inventory, source preservation map, and migration proposal. The author's October 10, 2026 naming instruction replaces the earlier unnumbered proposal with `01-` through `06-` prefixes; filenames remain stable across ordinary revisions.
 
 The document's [version](VERSION.md) covers this directory as a whole. Its [changelog](CHANGELOG.md) records completed stages, source use, and substantive additions. No collection index or public cutover has occurred; the [root Reader's Map](../../README.md) remains the public entry point.
 

@@ -1,5 +1,34 @@
 # Changelog
 
+## 0.1.0-draft.7 — 2026-10-10
+
+### Chapter IV: The Evolution of Collective Wisdom
+
+Drafted the authorized fourth chapter, retaining its original **Learning across disagreement** and **Memory and peaceful correction** anchors. Added **Trying something and finding out** and **Learning without becoming the same** to give experimentation and institutional coexistence distinct places in the argument. Baseline: `c76c0cf`. Updated the mission README and whole-document status. Chapters V–VI remain outlines.
+
+The final reading also simplified Chapter III's explanation of Enns's relative-policy-support finding; its claim, citation, and limits remain the same.
+
+### Source and change map
+
+| Passage | Source inspected | Treatment and limits |
+| :--- | :--- | :--- |
+| Learning across disagreement | [v4 Evolutionary Pressures](../../project.v4.0.md#evolutionary-pressures-on-ideologies) and [Bottom-Up Convergence](../../project.v4.0.md#mock-case-study-bottom-up-convergence); June mission, **The Mission** and **The Long-Term Vision** (`67ecdd90247ffbe407f1735106724decb340a911:v5/0.mission-statement.md`). | Restores reciprocal learning, useful borrowing, cooperation, and institutional adaptation. New hypothetical encounters show the value of another community's experience. Does not inherit v4's universal game-theory claims, invented percentages, century-long prediction, or assurances that destructive ideologies disappear. |
+| Research on shared resources | Ostrom (2010), **Beyond Markets and States**, published pp. 641–642 and 656–657, inspected in the linked university-hosted copy; publication details checked at the AEA. | Uses the Nepal irrigation findings and attention to institutional context as a bounded reason to investigate cooperation. No general superiority of local governance or validation of AUU is inferred. |
+| Trying something and finding out | [Canonical mission](../../v5-documents/0.mission-statement.md), zero-tax paragraph; v4's mock convergence case. | Develops the existing thought experiment while retaining authority, basic rights, shared obligations, nonconsent, and external-cost limits. Adds hypothetical maintenance funding, dependence on a benefactor, and symmetric examination of publicly funded alternatives. No policy recommendation or prediction is made. |
+| Evaluating an attempt | Current mission's instruction to preserve outcomes and correct course; [ethics §2.8](../../v5-documents/1.ethical-discussion.md#28-institutional-humility). | New reasoning about causal alternatives, timing, omitted experiences, limits on experiments, and grounds for stopping. The accessible-transport example is hypothetical; it makes no empirical claim about a particular service. |
+| Memory and peaceful correction | [Ethics §§2.3–2.4](../../v5-documents/1.ethical-discussion.md#23-privacy-for-persons-accountability-for-power), [§2.7](../../v5-documents/1.ethical-discussion.md#27-memory-repair-and-reversibility), and [§4.4](../../v5-documents/1.ethical-discussion.md#44-public-challenge-without-permanent-procedural-warfare); [features §5.5](../../v5-documents/2.feature-sets.md#55-discovery-perspective-and-civic-memory); [glossary: civic memory](../../v5-documents/GLOSSARY.md#civic-memory); salvage §§2, 4, and 5 (`76c52956f3a496db91e5bef50c729e207b4323be:v5-documents/temporary-corpus.md`). | Connects preserved experience to future effort, challenge to official accounts, privacy, proportionate retention, repair, forgiveness without compulsion, and the ability to act despite unresolved objections. Records do not establish truth or guarantee remedies. Privacy is preserved rather than reverting to v4's universal visibility proposal. |
+| Learning without becoming the same | June mission, **Global Scope, Local Autonomy**; [social structures §10](../../v5-documents/4.social-structures.md#10-federation-without-absorption); v4's mock convergence case. | Preserves borrowing and shared work while allowing enduring political and cultural difference. Makes the departure from inevitable convergence explicit: persistence and popularity do not establish wisdom. Connects cooperation at different scales to defined authority and effects beyond a group. |
+
+### Evidence scope and review boundary
+
+The external empirical passage is limited to the research described in [Ostrom's published article](https://www.aeaweb.org/articles?id=10.1257/aer.100.3.641), checked October 10, 2026. Other new examples are explicitly hypothetical. The chapter's proposals for learning and correction are reasoned aspirations and design questions, not demonstrated AUU capabilities. The author's distinction between possible constraints inside a platform and unguaranteed real-world outcomes is preserved.
+
+This completes the authorized pacing revision and Chapters III–IV. The source maps retain significant earlier ideas while documenting qualifications and departures. The canonical short mission, its temporary revision, root Reader's Map, diagrams, glossary, and specialist documents remain unchanged. A further comprehensive voice pass and drafting Chapters V–VI remain later editorial work.
+
+### Validation
+
+Checked 37 Markdown files, 357 local links and heading anchors, and eight historical GitHub blob links against local Git objects, with no errors. Checked all six chapter filenames and reading order, both navigation tables per chapter, first/last boundaries, README subsection coverage, retained headings, draft/outline states, and the single version/changelog pair. Confirmed that only the eight scoped manuscript/support files changed from `dfe26b3`, with Chapter I, Chapter VI, public texts, specialist sources, and diagrams preserved. Whitespace checks passed. The external research checks are described in the source maps; the local link checker does not fetch remote URLs. This was an agent editorial and structural check, not independent review or a rendered/accessibility test.
+
 ## 0.1.0-draft.6 — 2026-10-10
 
 ### Chapter III: The Civilizational Problem
