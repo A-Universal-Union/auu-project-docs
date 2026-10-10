@@ -22,19 +22,19 @@ We will not agree with every answer people bring. Some answers really do harm ot
 
 ## From engagement to action
 
-We can already post, argue, vote, petition, and march. None of that is useless. But you know how this usually goes. You say something that matters to you. Someone answers as if you are stupid, selfish, or evil. Soon neither of you is trying to understand anything. You are trying to win—to find the reply that finally shuts the other person up. Anger makes it almost impossible to see any truth in what they say. You both leave feeling unheard, hating each other a little more, and believing exactly what you believed before.
+We can already post, argue, vote, petition, and march. None of that is useless. But consider an exchange that may feel familiar. You say something that matters to you. Someone answers as if you are stupid, selfish, or evil. You answer in kind. Soon the question that started the conversation has almost disappeared. You want the reply that finally shuts the other person up. Conceding a point would feel like rewarding the insult. You both leave feeling unheard, angrier than you arrived, and no closer to doing anything about the problem.
 
-Social media calls that engagement. Nothing changed. Two people just left angrier than they arrived. We are very good at turning concern into rage. We need a way to turn it into change.
+Count the replies and that exchange might look like a success. Plenty of engagement. The original problem is still there. We need a way to give the concern somewhere to go beyond the next argument.
 
-The zoomable diagram [*The Political Insanity Loop: From Public Opinion to Civic Agency*](../../docs/diagrams/from-public-opinion-to-civic-agency.svg) maps the recurring responses to that failure and the civic functions they leave unresolved.
+The zoomable diagram [*The Political Insanity Loop: From Public Opinion to Civic Agency*](../../docs/diagrams/from-public-opinion-to-civic-agency.svg) traces how public concern can stall and what people would need to carry it through to action.
 
 A Universal Union is a proposal for civic infrastructure: shared tools that help people turn concerns into discussion, decisions, coordinated action, public accountability, and learning.
 
 ## Better disagreement
 
-That requires better disagreement, not merely more of it. The system should help people explain what they see in language the person they are trying to reach can hear. It should help the reply cross the same distance in return. Neither side should be protected from the hardest evidence or objection merely because it is uncomfortable. That does not mean pretending a bad argument is good.
+That requires disagreement worth having. Explain what you see in language the person you are trying to reach can understand. Give their reply the same chance to reach you. Let the hardest evidence and the serious objection into the conversation, including when they make your own position uncomfortable. A bad argument still deserves to be challenged. The point is to make the challenge understandable enough to answer.
 
-If someone believes trans people should have fewer rights, an echo chamber protects no one, and humiliation probably will not change that belief. It should meet testimony from the people it harms, relevant facts, and serious objections chosen through a process people can inspect and challenge. Those objections must be expressed in language the person holding the belief can understand. Basic rights should not depend on winning a debate. But changing a harmful belief still requires reaching the human being who holds it. Our own ideas must survive serious scrutiny too.
+If someone argues that trans people should have fewer rights, that claim should face testimony from the people it would harm, relevant facts, and serious objections. People should be able to examine how that evidence and those objections were selected, and challenge the selection. AUU should help make the reasoning understandable to the person being asked to reconsider. Basic rights must not depend on winning the debate. A person's dignity cannot hang on whether they argued well enough that afternoon. The work is to confront a harmful belief while still reaching the human being who holds it. Our own ideas must face the same scrutiny.
 
 AUU begins with faith in humanity. Human beings deserve more than increasingly efficient ways to feel powerless.
 

@@ -1,12 +1,38 @@
 # Changelog
 
-## Unreleased
+## 0.1.0-draft.4 — 2026-10-10
 
-### Voice refinement — 2026-10-10
+### Public voice revision
+
+- Applied the author's requested voice to the mission introduction, chapter summaries, and drafted Chapters I–II for an intelligent general reader without assumed specialist knowledge or agreement.
+- Kept all chapter headings, numbered filenames, navigation, substantive commitments, and specialist references. Chapters III–VI remain outlines.
+- Replaced several abstract explanations with concrete situations, direct judgments, more varied pacing, and restrained dry humor. New illustrations remain hypothetical; the revision adds no claim of measured performance or outside endorsement.
+- Clarified the scope of the writing guidance in `AGENTS.md`. Technical definitions, specifications, planning records, and change histories retain their practical tone.
+
+### Source and change map
+
+The comparison baseline is `5778a7b4e405b13aa4028b97f5748696ebd8a95d`. The earlier source maps below remain the record of how the initial draft was assembled; their statements of verbatim preservation describe those versions.
+
+| Passage | Preserved | Revised and why |
+| :--- | :--- | :--- |
+| README thesis and chapter summaries | Human dignity, relationships, limited authority, peaceful action, learning, correction, pluralism, inclusion, and the distinction between conviction and tested design. | Expressed the thesis and reading choices in ordinary language; retained draft status and the complete chapter order. |
+| I: What do you want to change? | Opening question, local concerns, tax/support and immigration perspectives, and the distinction between hearing a concern and accepting an answer. | Retained verbatim. The existing invitation already carries the requested voice. |
+| I: From engagement to action | The argument that attention can fail to produce action; the diagram link and plain definition of civic infrastructure. | Made the heated exchange an illustrative scenario. Removed the broad claim that anger makes recognizing truth almost impossible and the generalization about how arguments usually end. Explained the diagram's purpose more plainly. |
+| I: Better disagreement | Reciprocal understanding, hard evidence, the trans-rights example, review of evidence selection, protected rights, and scrutiny of AUU's own ideas. | Removed unsupported generalizations about echo chambers and the likely effect of humiliation. Reframed the passage around what a challenge should do. Kept the author's approved “feel powerless” closing verbatim. |
+| II: A human starting point | Proposed first-person conviction, equal dignity, room for critics, and responsibility to face human failure. | Gave the opening a more personal cadence and a dry observation about losing human purpose in implementation. The wording remains explicitly proposed for Joshua's review. |
+| II: Dignity, conscience, and agency | Agency, conscience, dissent, rights, affected standing, limited representation, and the distinction between being heard and having decision authority. | Explained the terms through applications, choices, and decisions affecting a person's home or work. Kept the specialist link and the argument that dignity survives disagreement. |
+| II: Human trust | Everyday trust examples, cooperation, the scope of trust, cooperation with strangers, institutional challenge, unsafe relationships, withdrawal, and rejection of guilt by association. | Reworked the explanation around what people entrust to one another. Defined a trust graph in place, retaining its candidate status and the narrower glossary meaning. No connection count, trust score, or performance guarantee was adopted. |
+| II: Machinery in human hands | Human purpose, the tenant-summary hypothetical, access to the source account, correction, meaningful human review, appropriate use of reliable tools, and scrutiny of designers, operators, and funders. | Followed the hypothetical through the missing qualification and the need for someone able to act on the error. Used direct questions to expose responsibility. |
+| II: People beyond the graph | Isolation, unsafe relationships, dignity before enrollment, affected standing without automatic voting authority, contested exclusion, unproven alternatives, assisted participation, and absence without presumed consent. | Opened with the person unable to find a safe witness. Explained assistance through a form-filling example and named disability explicitly, consistent with the existing ethical source. |
+| II: Faith and the possibility of correction | Revision, memory, repair, boundaries after harm, institutional incentives, peaceful influence, and scrutiny of AUU itself. | Made the argument more direct, made privacy within records explicit from the existing ethical source, and connected the ending to the conditions shaping people's choices. Retained the civilizational ambition. |
+
+The canonical mission and specialist sources remain unchanged. The rewrite preserves the original human-centered invitation and its arguments while distinguishing retained source wording from newly revised passages. No external empirical review or unfamiliar-reader test is claimed.
+
+### Earlier voice calibration
 
 - Replaced Chapter I's newly drafted closing transition with the author's preferred wording: “AUU begins with faith in humanity. Human beings deserve more than increasingly efficient ways to feel powerless.” The author specifically changed “be” to “feel” and clarified why: effective powerlessness does not establish that people are truly powerless; the broader assertion would create an unnecessary burden of proof.
-- Recorded the requested voice and the distinction between felt, effective, and absolute powerlessness in the repository's writing instructions. The guidance makes proportionate assertions the governing principle. This is a focused editorial refinement; the document version remains `0.1.0-draft.3`.
-- Preserved Chapter I's inherited source passages and the other chapters.
+- Recorded the requested voice and the distinction between felt, effective, and absolute powerlessness in the repository's writing instructions. The guidance makes proportionate assertions the governing principle. These initial wording refinements kept the document at `0.1.0-draft.3` before the broader revision above.
+- At that initial calibration stage, preserved Chapter I's inherited source passages and the other chapters; the broader revision is mapped above.
 
 ## 0.1.0-draft.3 — 2026-10-10
 
