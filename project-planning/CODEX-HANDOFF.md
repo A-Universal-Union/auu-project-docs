@@ -136,3 +136,5 @@ The [Mission Reconstruction Review](mission-reconstruction/README.md) records th
 ## 9. Authorized draft phase — October 10, 2026
 
 The author authorized creating the six-chapter structure and drafting Chapters I–II, with two-digit filename prefixes for sorting. The [working mission draft](../v5/mission-statement/README.md) records progress and document-level versions. Chapters III–VI remain outlines, and the current mission remains canonical. This later instruction supersedes the earlier unnumbered filename proposal and the initial milestone's scaffold boundary; it does not authorize the full manuscript, root rewrite, or public cutover.
+
+That milestone is complete for author review at mission version `0.1.0-draft.3`. Chapter I preserves the mapped invitation passages; Chapter II develops the human foundation in new draft prose. The mission changelog records the source and change maps. Acceptance of the new wording and drafting the remaining chapters are later decisions.

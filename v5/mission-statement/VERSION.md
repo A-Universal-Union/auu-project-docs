@@ -2,9 +2,9 @@
 
 **Document:** A Universal Union: Mission Statement
 
-**Version:** 0.1.0-draft.2
+**Version:** 0.1.0-draft.3
 
-**Status:** Chapter I drafted; Chapters II–VI remain outlines; not canonical
+**Status:** Chapters I–II drafted; Chapters III–VI remain outlines; not canonical
 
 **Scope:** Entire `v5/mission-statement/` document
 

@@ -2,7 +2,7 @@
 
 ## Thesis
 
-**Status: Incomplete draft for author review.** Chapter I is drafted; Chapters II–VI remain outlines. The [current mission](../../v5-documents/0.mission-statement.md) remains canonical; this directory is the workspace for the expanded mission.
+**Status: Incomplete draft for author review.** Chapters I–II are drafted; Chapters III–VI remain outlines. The [current mission](../../v5-documents/0.mission-statement.md) remains canonical; this directory is the workspace for the expanded mission.
 
 A Universal Union begins with faith in humanity: human dignity, agency, conscience, and relationships are the foundations of civic life. It proposes shared civic infrastructure through which people can reason together, organize limited authority, act peacefully, learn from consequences, and correct failures across generations and communities.
 
@@ -16,9 +16,13 @@ The ambition is to change conditions that reward manipulation and domination whi
 | ↳ [What do you want to change?](01-human-invitation.md#what-do-you-want-to-change) | Hear incompatible concerns without accepting every proposed answer. | Draft |
 | ↳ [From engagement to action](01-human-invitation.md#from-engagement-to-action) | Connect the failure of attention alone to a plain account of AUU's purpose. | Draft |
 | ↳ [Better disagreement](01-human-invitation.md#better-disagreement) | Keep evidence, affected-person testimony, and rights in view across disagreement. | Draft |
-| **II. [Faith in Humanity](02-faith-in-humanity.md)** | State dignity, conscience, agency, and relationships as commitments that machinery must serve. | Outline |
-| ↳ [Human trust](02-faith-in-humanity.md#human-trust) | Explain the relational foundation and distinguish it from candidate technical mechanisms. | Outline |
-| ↳ [People beyond the graph](02-faith-in-humanity.md#people-beyond-the-graph) | Include isolated, vulnerable, dissenting, and unconnected people in the foundation. | Outline |
+| **II. [Faith in Humanity](02-faith-in-humanity.md)** | State dignity, conscience, agency, and relationships as commitments that machinery must serve. | Draft |
+| ↳ [A human starting point](02-faith-in-humanity.md#a-human-starting-point) | Propose the author's first-person statement of faith and responsibility. | Draft |
+| ↳ [Dignity, conscience, and agency](02-faith-in-humanity.md#dignity-conscience-and-agency) | Connect equal dignity to voice, protected dissent, and affected standing. | Draft |
+| ↳ [Human trust](02-faith-in-humanity.md#human-trust) | Explain the relational foundation and distinguish it from candidate technical mechanisms. | Draft |
+| ↳ [Machinery in human hands](02-faith-in-humanity.md#machinery-in-human-hands) | Keep interpretation and consequential decisions answerable to people. | Draft |
+| ↳ [People beyond the graph](02-faith-in-humanity.md#people-beyond-the-graph) | Include isolated, vulnerable, dissenting, and unconnected people in the foundation. | Draft |
+| ↳ [Faith and the possibility of correction](02-faith-in-humanity.md#faith-and-the-possibility-of-correction) | Connect learning, repair, and institutional change without promising convergence. | Draft |
 | **III. [The Civilizational Problem](03-civilizational-problem.md)** | Examine concentrated power and the gap between technological capacity and accountable civic coordination. | Outline |
 | ↳ [Power and civic capacity](03-civilizational-problem.md#power-and-civic-capacity) | Develop bounded arguments about institutional and financial barriers to agency. | Outline |
 | ↳ [The conditions we reproduce](03-civilizational-problem.md#the-conditions-we-reproduce) | Examine incentives shaping discourse and conduct. | Outline |

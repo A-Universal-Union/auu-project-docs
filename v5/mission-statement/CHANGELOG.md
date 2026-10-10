@@ -1,5 +1,32 @@
 # Changelog
 
+## 0.1.0-draft.3 — 2026-10-10
+
+### Drafted
+
+- Chapter II, Faith in Humanity, as a sustained argument about dignity, conscience, agency, human relationships, machinery, inclusion, and correction.
+- A clearly marked proposed first-person statement for Joshua. It is new draft wording, not a recovered quotation or an assertion of author approval.
+- Chapter II subsection links and draft status in the document README.
+
+### Chapter II source and change map
+
+Source documents below were inspected at baseline `285c4b6b86edfb4f9a3c4339d8511635ec186eaf`. The chapter develops their commitments in new prose; it does not reproduce historical paragraphs verbatim.
+
+| Passage | Source or editorial basis | Treatment |
+| :--- | :--- | :--- |
+| A human starting point | The author's explicit foundational commitments in [AGENTS.md](../../AGENTS.md#purpose-and-intellectual-commitments) and the [handoff](../../project-planning/CODEX-HANDOFF.md); [ethical discussion §2.1](../../v5-documents/1.ethical-discussion.md#21-human-dignity-and-agency). | New first-person proposal states faith as a philosophical commitment and acknowledges responsibility for human failure. It makes no claim that an experiment has established that commitment. |
+| Dignity, conscience, and agency | Ethical discussion [§2.1](../../v5-documents/1.ethical-discussion.md#21-human-dignity-and-agency), [§2.2](../../v5-documents/1.ethical-discussion.md#22-consent-and-bounded-representation), [§2.5](../../v5-documents/1.ethical-discussion.md#25-pluralism-within-a-governed-rights-floor), and [§4.1](../../v5-documents/1.ethical-discussion.md#41-membership-standing-advocacy-and-representation). | Develops equal dignity, meaningful authorship, dissent, and affected standing in ordinary language. Keeps standing distinct from decision authority. |
+| Human trust | v3.2 [Trust](../../project.v3.2.md#trust) and [Identity](../../project.v3.2.md#identity); current [glossary definition](../../v5-documents/GLOSSARY.md#trust) and [feature sets §4.5](../../v5-documents/2.feature-sets.md#45-trust-reputation-and-standing). | Recovers the relational motivation while distinguishing ordinary human trust from the narrower design term. New everyday examples and a positive account of cooperation illustrate the argument. Witnessed connections and bounded graphs remain candidates; the chapter does not carry forward automatic trust scoring, guilt by association, or assurances about manipulation resistance. |
+| Machinery in human hands | Ethical discussion [§2.8](../../v5-documents/1.ethical-discussion.md#28-institutional-humility) and [§4.6](../../v5-documents/1.ethical-discussion.md#46-auus-own-interpretive-power). | Develops human responsibility and challenge to interpretation. The tenant-summary example is a new hypothetical, not a reported case or implemented capability. |
+| People beyond the graph | Ethical discussion [§2.3](../../v5-documents/1.ethical-discussion.md#23-privacy-for-persons-accountability-for-power), [§2.6](../../v5-documents/1.ethical-discussion.md#26-proportional-civic-responsibility-and-accessible-understanding), and [§4.1](../../v5-documents/1.ethical-discussion.md#41-membership-standing-advocacy-and-representation); [feature sets §4.5](../../v5-documents/2.feature-sets.md#45-trust-reputation-and-standing). | Makes isolated, vulnerable, dissenting, and unconnected people explicit in the foundation. Alternative participation routes are obligations to investigate, not validated solutions. Refusal or inability to participate does not erase standing or establish consent. |
+| Faith and the possibility of correction | Ethical discussion [§2.4](../../v5-documents/1.ethical-discussion.md#24-non-domination-and-peaceful-recourse), [§2.7](../../v5-documents/1.ethical-discussion.md#27-memory-repair-and-reversibility), [§2.8](../../v5-documents/1.ethical-discussion.md#28-institutional-humility), and [§3.1](../../v5-documents/1.ethical-discussion.md#31-society-shapes-the-choices-made-inside-it). | Connects personal revision to institutional learning, memory, repair, and peaceful change. This transition preserves the civilizational ambition without claiming inevitable cooperation or ideological convergence. |
+
+Historical disagreements and omitted technical assurances remain recorded in the [source inventory](../../project-planning/mission-reconstruction/source-inventory.md#conflicts-and-editorial-decisions). The chapter adds no external research citations or claims of measured performance. Source documents and controlled terminology remain unchanged.
+
+### Completed boundary
+
+The authorized structure and Chapters I–II are drafted for author review. Chapters III–VI remain the committed outlines. The current mission remains canonical. This version does not complete the manuscript or adopt the proposed first-person wording on the author's behalf.
+
 ## 0.1.0-draft.2 — 2026-10-10
 
 ### Drafted

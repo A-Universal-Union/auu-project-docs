@@ -4,7 +4,7 @@
 
 ### Updated
 
-- Linked the authorized mission scaffold and recorded the next drafting stage for Chapters I–II.
+- Linked the authorized mission scaffold, then recorded completion of draft Chapters I–II for author review; Chapters III–VI remain outlines.
 - Recorded the author's `01-` through `06-` filename instruction as superseding the unnumbered proposal. Preserved the October 9 plan and verification results as a dated record.
 
 ## 0.1.0-draft.3 — 2026-10-09

@@ -27,7 +27,7 @@ This is an editorial review package for the [handoff](../CODEX-HANDOFF.md), insp
 
 ## Review status
 
-The October 9 initial planning milestone is complete: historical inventory, root README audit, linked mission outline, collection proposal, prose preservation map, and migration/link plan. On October 10, the author authorized the scaffold and drafting Chapters I–II, with `01-` through `06-` chapter prefixes. The [working mission draft](../../v5/mission-statement/README.md) now contains the six outlines; Chapters I–II are the next authorized writing stage. The complete manuscript, public README rewrite, canonical cutover, and other migrations remain separate work.
+The October 9 initial planning milestone is complete: historical inventory, root README audit, linked mission outline, collection proposal, prose preservation map, and migration/link plan. On October 10, the author authorized the scaffold and drafting Chapters I–II, with `01-` through `06-` chapter prefixes. The [working mission draft](../../v5/mission-statement/README.md) now contains drafted Chapters I–II and outlines for Chapters III–VI. That drafting milestone is complete for author review. The complete manuscript, public README rewrite, canonical cutover, and other migrations remain separate work.
 
 The chapters and checks below describe the October 9 planning snapshot. Its unnumbered filename proposals and statements that no scaffold exists have been superseded by the October 10 authorization and linked working draft; they remain as the record of the earlier proposal.
 
