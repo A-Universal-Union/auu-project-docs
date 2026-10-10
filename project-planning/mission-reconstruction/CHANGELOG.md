@@ -4,7 +4,7 @@
 
 ### Clarified after author review
 
-- In both the temporary copy and the expanded draft, distinguished the commitment to dignity from guaranteed outcomes. A majority may still choose harm; the stated aim is easier coordination with as much safety as possible. The wording does not resolve the separate question of a core-platform moral veto or revise the existing ethical framework's proposed enforcement model.
+- In both the temporary copy and the expanded draft, distinguished the commitment to dignity from guaranteed real-world outcomes. Following the author's clarification, the passage allows for proposed constraints inside the platform while disclaiming guarantees about conduct or results beyond it. The stated aim remains easier coordination with as much safety as possible. This is a mission wording correction, not a request to revise the enforcement model.
 
 ### Added
 

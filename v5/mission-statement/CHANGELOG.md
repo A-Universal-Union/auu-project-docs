@@ -4,7 +4,7 @@
 
 ### Public voice revision
 
-- Following the author's review, clarified Chapter I's dignity passage as an ethical commitment rather than a guarantee of humane outcomes. Explicitly acknowledged that a majority may violate it and that easier coordination can be misused. This wording clarification does not decide the separate question of the core platform's enforcement authority.
+- Following the author's review, clarified Chapter I's dignity passage as an ethical commitment rather than a guarantee of real-world outcomes. The author clarified that this concerns what people do and what happens beyond the platform; it does not rule out constraints on activity within the platform or request a change to the enforcement model.
 - Applied the author's requested voice to the mission introduction, chapter summaries, and drafted Chapters I–II for an intelligent general reader without assumed specialist knowledge or agreement.
 - Kept all chapter headings, numbered filenames, navigation, substantive commitments, and specialist references. Chapters III–VI remain outlines.
 - Replaced several abstract explanations with concrete situations, direct judgments, more varied pacing, and restrained dry humor. New illustrations remain hypothetical; the revision adds no claim of measured performance or outside endorsement.
