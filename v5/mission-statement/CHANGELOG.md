@@ -1,5 +1,28 @@
 # Changelog
 
+## 0.1.0-draft.2 — 2026-10-10
+
+### Drafted
+
+- Chapter I, The Human Invitation, using the mapped current mission passages.
+- A short closing transition to the philosophical commitment developed in Chapter II.
+
+### Chapter I source and change map
+
+Line numbers refer to `285c4b6b86edfb4f9a3c4339d8511635ec186eaf:v5-documents/0.mission-statement.md`.
+
+| Source | Treatment in Chapter I | Reason |
+| :--- | :--- | :--- |
+| Line 5, opening question | Promoted to the first subsection heading, preserving its wording. | Keep the human invitation first and make its section directly navigable. |
+| Lines 7–17, local concerns and contrasting perspectives | Preserved verbatim. | Retain the current tone, examples, and distinction between hearing a concern and accepting a harmful answer. |
+| Lines 19–25, engagement, diagnostic, and plain AUU definition | Preserved verbatim apart from the relative SVG path. Added a subsection heading. | Keep the diagnosis and purpose early; account for the draft's deeper directory. |
+| Lines 29–31, better disagreement and trans-rights example | Preserved verbatim under a new subsection heading. | Retain the rights boundary and the invitation to examine one's own ideas. |
+| Closing transition | New wording: a proposal for people should state its commitments; AUU begins with faith in humanity. | Connect the preserved invitation to Chapter II without adding a technical overview. |
+
+The existing collective voice is preserved as source text. The full legacy mission remains canonical and unchanged. Material mapped to Chapters IV–VI has not been deleted: the policy experiment, action/authority passages, software limits, and Help Build It remain in the legacy text until their proposed chapters are separately drafted. The [full source map](../../project-planning/mission-reconstruction/architecture-and-migration.md#current-mission-preservation-map) records those placements.
+
+The inherited generalizations about anger and persuasion have not received a new empirical review in this drafting stage. The prose is preserved for author review, not presented as a newly validated behavioral claim.
+
 ## 0.1.0-draft.1 — 2026-10-10
 
 ### Added

@@ -2,7 +2,7 @@
 
 ## Thesis
 
-**Status: Incomplete draft for author review.** All six chapters are currently outlines. The [current mission](../../v5-documents/0.mission-statement.md) remains canonical; this directory is the workspace for the expanded mission.
+**Status: Incomplete draft for author review.** Chapter I is drafted; Chapters II–VI remain outlines. The [current mission](../../v5-documents/0.mission-statement.md) remains canonical; this directory is the workspace for the expanded mission.
 
 A Universal Union begins with faith in humanity: human dignity, agency, conscience, and relationships are the foundations of civic life. It proposes shared civic infrastructure through which people can reason together, organize limited authority, act peacefully, learn from consequences, and correct failures across generations and communities.
 
@@ -12,10 +12,10 @@ The ambition is to change conditions that reward manipulation and domination whi
 
 | Document / section | Thesis / purpose | State |
 | :--- | :--- | :--- |
-| **I. [The Human Invitation](01-human-invitation.md)** | Begin with lived concerns, conflicting perspectives, and the need to turn disagreement into civic agency. | Outline |
-| ↳ [What do you want to change?](01-human-invitation.md#what-do-you-want-to-change) | Hear incompatible concerns without accepting every proposed answer. | Outline |
-| ↳ [From engagement to action](01-human-invitation.md#from-engagement-to-action) | Connect the failure of attention alone to a plain account of AUU's purpose. | Outline |
-| ↳ [Better disagreement](01-human-invitation.md#better-disagreement) | Keep evidence, affected-person testimony, and rights in view across disagreement. | Outline |
+| **I. [The Human Invitation](01-human-invitation.md)** | Begin with lived concerns, conflicting perspectives, and the need to turn disagreement into civic agency. | Draft |
+| ↳ [What do you want to change?](01-human-invitation.md#what-do-you-want-to-change) | Hear incompatible concerns without accepting every proposed answer. | Draft |
+| ↳ [From engagement to action](01-human-invitation.md#from-engagement-to-action) | Connect the failure of attention alone to a plain account of AUU's purpose. | Draft |
+| ↳ [Better disagreement](01-human-invitation.md#better-disagreement) | Keep evidence, affected-person testimony, and rights in view across disagreement. | Draft |
 | **II. [Faith in Humanity](02-faith-in-humanity.md)** | State dignity, conscience, agency, and relationships as commitments that machinery must serve. | Outline |
 | ↳ [Human trust](02-faith-in-humanity.md#human-trust) | Explain the relational foundation and distinguish it from candidate technical mechanisms. | Outline |
 | ↳ [People beyond the graph](02-faith-in-humanity.md#people-beyond-the-graph) | Include isolated, vulnerable, dissenting, and unconnected people in the foundation. | Outline |
