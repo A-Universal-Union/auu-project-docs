@@ -138,3 +138,9 @@ The [Mission Reconstruction Review](mission-reconstruction/README.md) records th
 The author authorized creating the six-chapter structure and drafting Chapters I–II, with two-digit filename prefixes for sorting. The [working mission draft](../v5/mission-statement/README.md) records progress and document-level versions. Chapters III–VI remain outlines, and the current mission remains canonical. This later instruction supersedes the earlier unnumbered filename proposal and the initial milestone's scaffold boundary; it does not authorize the full manuscript, root rewrite, or public cutover.
 
 That milestone is complete for author review at mission version `0.1.0-draft.3`. Chapter I preserves the mapped invitation passages; Chapter II develops the human foundation in new draft prose. The mission changelog records the source and change maps. Acceptance of the new wording and drafting the remaining chapters are later decisions.
+
+## 10. Public voice revision — October 10, 2026
+
+The author requested that the voice guidance apply to public writing for a general audience, and asked for both a revision of the new draft and a temporary revision of the short public mission. The [expanded draft](../v5/mission-statement/README.md) is now at `0.1.0-draft.4`, with the introduction and Chapters I–II revised and a source/change map in its changelog. Chapters III–VI remain outlines.
+
+The [temporary public mission revision](mission-reconstruction/05-public-mission-voice-draft.md) is a separate comparison copy in the review package, which is now at `0.1.0-draft.5`. Its changelog accounts for every original source block. The original short mission remains canonical. The public root, specialist documents, and diagrams retain their contents and routes.

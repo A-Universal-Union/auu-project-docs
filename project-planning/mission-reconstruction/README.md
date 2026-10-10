@@ -4,7 +4,7 @@
 
 AUU can recover a fuller account of human trust, civic agency, cooperative learning, and peaceful correction while preserving the current mission's invitation and v5's clearer limits on authority. Reconstruction needs to distinguish an argument missing from the short mission from one still developed elsewhere in the repository. It must also distinguish a conviction worth stating from an implementation or prediction that needs evidence.
 
-This is an editorial review package for the [handoff](../CODEX-HANDOFF.md), inspected against repository commit `ef4d1997eaac4f17d07731dd0c8e4c366a2d3487`. The [existing mission](../../v5-documents/0.mission-statement.md) remains canonical. This package does not adopt new philosophical wording or establish a new public reading route.
+This is an editorial review package for the [handoff](../CODEX-HANDOFF.md). Its initial planning review used repository commit `ef4d1997eaac4f17d07731dd0c8e4c366a2d3487`; later drafting work records its own baseline below and in the changelog. The [existing mission](../../v5-documents/0.mission-statement.md) remains canonical. The wording proposed here is for author review and does not establish a new public reading route.
 
 ## Documents List
 
@@ -23,13 +23,17 @@ This is an editorial review package for the [handoff](../CODEX-HANDOFF.md), insp
 | ↳ [Current mission preservation map](architecture-and-migration.md#current-mission-preservation-map) | Account for every nonblank block of current mission prose. |
 | ↳ [Link inventory and affected files](architecture-and-migration.md#link-inventory-and-affected-files) | Identify live links, images, literal mentions, examples, and historical paths requiring different treatment. |
 | ↳ [Open editorial issues](architecture-and-migration.md#open-editorial-issues-and-later-cross-document-work) | Identify decisions for Joshua and later specialist work without assuming acceptance. |
+| [Temporary public mission revision](05-public-mission-voice-draft.md) | Compare a revision of the short public mission using the author's voice for a general audience, while preserving the canonical version. |
+| ↳ [Help Build It](05-public-mission-voice-draft.md#help-build-it) | Read the revised invitation to criticism, participation, and organized effort. |
 | [Baseline link inventory](inbound-links.tsv) | Line-addressed supporting data for all recorded v5-document and diagram references at the inspected baseline. |
 
 ## Review status
 
 The October 9 initial planning milestone is complete: historical inventory, root README audit, linked mission outline, collection proposal, prose preservation map, and migration/link plan. On October 10, the author authorized the scaffold and drafting Chapters I–II, with `01-` through `06-` chapter prefixes. The [working mission draft](../../v5/mission-statement/README.md) now contains drafted Chapters I–II and outlines for Chapters III–VI. That drafting milestone is complete for author review. The complete manuscript, public README rewrite, canonical cutover, and other migrations remain separate work.
 
-The chapters and checks below describe the October 9 planning snapshot. Its unnumbered filename proposals and statements that no scaffold exists have been superseded by the October 10 authorization and linked working draft; they remain as the record of the earlier proposal.
+The author subsequently requested a public voice revision of the new draft and a temporary revision of the short public mission. The expanded draft is now at `0.1.0-draft.4`. The [temporary comparison copy](05-public-mission-voice-draft.md) is the fifth review chapter, with its source treatment recorded in the [change map](CHANGELOG.md#public-mission-source-and-change-map). It is a review artifact, not a second canonical mission.
+
+The initial four planning chapters and the dated checks below describe the October 9 snapshot. Its unnumbered filename proposals and statements that no scaffold exists have been superseded by the October 10 authorization and linked working draft; they remain as the record of the earlier proposal. Chapter navigation now also reaches the later public mission review copy.
 
 ## Verification and limits
 

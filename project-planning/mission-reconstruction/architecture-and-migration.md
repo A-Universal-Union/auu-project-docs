@@ -2,7 +2,7 @@
 
 | Previous | Contents | Next |
 | :--- | :---: | ---: |
-| [Mission outline](mission-outline.md) | [Review contents](README.md) | — |
+| [Mission outline](mission-outline.md) | [Review contents](README.md) | [Public mission revision](05-public-mission-voice-draft.md) |
 
 ## Proposed hierarchy
 
@@ -143,4 +143,4 @@ The first six-chapter draft and root rewrite need authorial direction on these c
 
 | Previous | Contents | Next |
 | :--- | :---: | ---: |
-| [Mission outline](mission-outline.md) | [Review contents](README.md) | — |
+| [Mission outline](mission-outline.md) | [Review contents](README.md) | [Public mission revision](05-public-mission-voice-draft.md) |
