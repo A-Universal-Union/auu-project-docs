@@ -1,5 +1,31 @@
 # Changelog
 
+## 0.1.0-draft.6 — 2026-10-10
+
+### Chapter III: The Civilizational Problem
+
+Developed the two outline topics into a sustained public argument and added an ending section, **Organizing for correction**, to connect institutional conditions to the collective-learning argument in Chapter IV. Baseline: `e5a89bf`. Updated the README's status and subsection links; filenames and chapter navigation are unchanged.
+
+### Source and change map
+
+| Passage | Source inspected | Treatment and limits |
+| :--- | :--- | :--- |
+| Communication and practical capacity | Original PDF, Abstract/Introduction, physical p. 1 (`bad6e949be741f158578fffd9c89acf1dfc2180c:a-universal-union.pdf`); [v3.2 Introduction](../../project.v3.2.md#introduction); [v4 Introduction](../../project.v4.0.md#b-introduction); June mission, **Mission Statement and Foundational Purpose** (`67ecdd90247ffbe407f1735106724decb340a911:v5/0.mission-statement.md`). | Restores the capacity/coordination argument through a new hypothetical bus-route closure. Distinguishes the ability to communicate from time, resources, authority, and execution. Does not inherit a universal rate-of-progress comparison, prediction of collapse, or claim that people have no power. |
+| Institutional and financial power | [Ethics §§3.2–3.4](../../v5-documents/1.ethical-discussion.md#32-scattered-awareness-is-not-organized-power); June mission, **Global Scope, Local Autonomy**; salvage corpus §6 (`76c52956f3a496db91e5bef50c729e207b4323be:v5-documents/temporary-corpus.md`). | Develops the practical advantages of sustained resources, preserves useful expertise and institutions, and applies funding scrutiny to AUU. Rejects wealth as human worth or a hidden mandate without treating all funding as corruption. |
+| Research on unequal influence | Gilens and Page (2014), abstract on the publisher's page; Enns (2015), abstract, analysis, and conclusions. Both are linked at the relevant claims in Chapter III. | Replaces the unsupported v4 “about 30%” and strongest-lobbying-predictor assertions with a bounded account of the original authors' model and a published challenge. No claim that this resolves the research debate, measures current conditions, or establishes causal mechanisms. |
+| Institutional rewards and responsibility | [v4 Evolutionary Pressures](../../project.v4.0.md#evolutionary-pressures-on-ideologies) and [Civilization and the Expression of Psychopathy](../../project.v4.0.md#civilization-and-the-expression-of-psychopathy); [ethics §3.1](../../v5-documents/1.ethical-discussion.md#31-society-shapes-the-choices-made-inside-it); June mission, **The Long-Term Vision**; salvage §§2 and 7. | Restores the question of what arrangements reward through new conditional workplace and attention examples. Preserves choice and unequal responsibility. Does not reproduce clinical prevalence claims, diagnose civic worth, or promise that cooperative behavior inevitably prevails. Those are explicit changes from v4's stronger framing. |
+| Peaceful correction and continuity | [Ethics §2.4](../../v5-documents/1.ethical-discussion.md#24-non-domination-and-peaceful-recourse); June mission, **The Mission**; salvage §§2 and 5; canonical mission's action and software-limit passages. | Connects reasoning to organizing, resources, action, and learning from results. Includes the answerability of movements and organizers. Preserves real-world limits and the need for human follow-through; supplies the transition to Chapter IV. |
+
+### Evidence scope
+
+| Claim or example | Evidence used | Boundary |
+| :--- | :--- | :--- |
+| Gilens–Page study size and reported influence | [Publisher abstract, 2014](https://doi.org/10.1017/S1537592714001595): 1,779 United States policy issues and the reported multivariate result. | Attributed to that analysis; not a measure of every citizen's power, a contemporary estimate, or a finding that lobbying spending is the strongest predictor. |
+| Enns's challenge | [Enns, 2015](https://doi.org/10.1017/S1537592715002315): relative support across policies and coincidental representation. | Presents the disagreement without claiming either article settles how influence should be measured. |
+| Bus-route closure, complaint targets, and reaction counts | Newly written hypothetical and conditional examples, identified as such in the prose. | Illustrate mechanisms and normative questions; no observed frequency, causal effect size, or actual AUU capability is claimed. |
+
+External sources were checked on October 10, 2026. The manuscript's wider argument is reasoning from the described relationships and commitments, not a newly measured cross-country or historical trend. The chapter does not claim that AUU has solved the problems it identifies.
+
 ## 0.1.0-draft.5 — 2026-10-10
 
 ### Chapter II pacing and emphasis
