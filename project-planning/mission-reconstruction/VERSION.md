@@ -2,9 +2,9 @@
 
 **Document:** Mission Reconstruction Review
 
-**Version:** 0.1.0-draft.3
+**Version:** 0.1.0-draft.4
 
-**Status:** Initial handoff planning milestone complete; awaiting author review
+**Status:** Planning record linked to the authorized Chapters I–II draft phase
 
 **Scope:** This review directory, including its chapters and supporting inventories
 

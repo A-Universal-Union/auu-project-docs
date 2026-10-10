@@ -14,7 +14,7 @@ Documentation is read as a hierarchy of **README entry points**, not as an undif
 - The repository root is an **independently useful Reader's Map**, not a mere directory listing. Keep its conceptual overview, essential protections, visual models, practical example, maturity limits, and opportunities to participate intelligible without requiring another document.
 - Favor progressive disclosure: make the root quick to scan while linking to specialist explanations. A working editorial range of roughly **800–1,200 words** may help during revision, but is not a mandatory limit and never outranks comprehension, accuracy, and preservation of important qualifications.
 - Diagrams and illustrations are integral explanations, not decorative extras or materials to relegate automatically to an appendix.
-- Stable paths matter. Avoid renaming chapters to change reading order or to encode new version numbers.
+- Stable paths matter. New mission chapter filenames use two-digit reading-order prefixes (`01-` through `06-`), following the author's 2026-10-10 instruction. Keep filenames stable across content and version revisions. Deliberate changes to chapter order or paths must keep the README, navigation, and inbound links consistent.
 - The thesis and values of AUU are distinct from empirical claims, tested capabilities, and candidate engineering approaches.
 
 ## 2. Target organization and ownership
@@ -27,12 +27,12 @@ README.md                            # Repository entry: AUU Reader's Map
 │   │   ├── README.md                # Mission thesis, diagrams if useful, chapter TOC
 │   │   ├── VERSION.md               # Whole authored document version
 │   │   ├── CHANGELOG.md             # Whole authored document change history
-│   │   ├── human-invitation.md
-│   │   ├── faith-in-humanity.md
-│   │   ├── civilizational-problem.md
-│   │   ├── collective-wisdom.md
-│   │   ├── civic-infrastructure.md
-│   │   └── work-before-us.md
+│   │   ├── 01-human-invitation.md
+│   │   ├── 02-faith-in-humanity.md
+│   │   ├── 03-civilizational-problem.md
+│   │   ├── 04-collective-wisdom.md
+│   │   ├── 05-civic-infrastructure.md
+│   │   └── 06-work-before-us.md
 │   └── ethical-discussion/          # Future migration, only when authorized
 │       └── README.md
 ├── docs/
@@ -119,14 +119,14 @@ achievable without compelling ideological uniformity or sacrificing freedom.
 
 | Document / section | Thesis / purpose |
 | :--- | :--- |
-| **I. [The Human Invitation](human-invitation.md)** | From lived concerns and failed discourse to civic agency. |
-| ↳ [From Engagement to Division](human-invitation.md#from-engagement-to-division) | Why engagement does not necessarily lead to reform. |
-| **II. [Faith in Humanity](faith-in-humanity.md)** | People and relationships provide the moral foundation, not machines. |
-| ↳ [Human Trust](faith-in-humanity.md#human-trust) | Relational trust versus proof, credentials, and candidate mechanisms. |
-| **III. [The Civilizational Problem](civilizational-problem.md)** | Institutional power, civic capacity, and social incentives. |
-| **IV. [The Evolution of Collective Wisdom](collective-wisdom.md)** | Cooperative adaptation, memory, and peaceful correction. |
-| **V. [Civic Infrastructure](civic-infrastructure.md)** | Connect the mission to proposed civic capacities and safeguards. |
-| **VI. [The Work Before Us](work-before-us.md)** | Uncertainty, criticism, and participation. |
+| **I. [The Human Invitation](01-human-invitation.md)** | From lived concerns and failed discourse to civic agency. |
+| ↳ [From Engagement to Division](01-human-invitation.md#from-engagement-to-division) | Why engagement does not necessarily lead to reform. |
+| **II. [Faith in Humanity](02-faith-in-humanity.md)** | People and relationships provide the moral foundation, not machines. |
+| ↳ [Human Trust](02-faith-in-humanity.md#human-trust) | Relational trust versus proof, credentials, and candidate mechanisms. |
+| **III. [The Civilizational Problem](03-civilizational-problem.md)** | Institutional power, civic capacity, and social incentives. |
+| **IV. [The Evolution of Collective Wisdom](04-collective-wisdom.md)** | Cooperative adaptation, memory, and peaceful correction. |
+| **V. [Civic Infrastructure](05-civic-infrastructure.md)** | Connect the mission to proposed civic capacities and safeguards. |
+| **VI. [The Work Before Us](06-work-before-us.md)** | Uncertainty, criticism, and participation. |
 ```
 
 The chapters and summaries are a proposed outline, not finished files. Do not publish broken subsection anchors or placeholder links as if they were functional. Check GitHub-generated headings and anchor uniqueness.
@@ -157,7 +157,7 @@ Every **chapter** has the same navigation table twice: immediately after its H1 
 
 | Previous | Contents | Next |
 | :--- | :---: | ---: |
-| [← Human Invitation](human-invitation.md) | [↑ Mission Statement](README.md) | [Civilizational Problem →](civilizational-problem.md) |
+| [← Human Invitation](01-human-invitation.md) | [↑ Mission Statement](README.md) | [Civilizational Problem →](03-civilizational-problem.md) |
 
 [Chapter content.]
 
@@ -165,7 +165,7 @@ Every **chapter** has the same navigation table twice: immediately after its H1 
 
 | Previous | Contents | Next |
 | :--- | :---: | ---: |
-| [← Human Invitation](human-invitation.md) | [↑ Mission Statement](README.md) | [Civilizational Problem →](civilizational-problem.md) |
+| [← Human Invitation](01-human-invitation.md) | [↑ Mission Statement](README.md) | [Civilizational Problem →](03-civilizational-problem.md) |
 ```
 
 For the first chapter, use `—` in Previous; for the last, `—` in Next. Always retain Contents. Directory READMEs are hubs and **do not need chapter-style Previous/Next navigation**; they may provide an easy way to return to their parent README.

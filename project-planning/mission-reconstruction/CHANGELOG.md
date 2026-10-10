@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.0-draft.4 — 2026-10-10
+
+### Updated
+
+- Linked the authorized mission scaffold and recorded the next drafting stage for Chapters I–II.
+- Recorded the author's `01-` through `06-` filename instruction as superseding the unnumbered proposal. Preserved the October 9 plan and verification results as a dated record.
+
 ## 0.1.0-draft.3 — 2026-10-09
 
 ### Added

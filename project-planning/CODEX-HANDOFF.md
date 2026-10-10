@@ -132,3 +132,7 @@ Use precise references, and indicate uncertainty. The schema is an editorial too
 ## 8. Initial milestone review package
 
 The [Mission Reconstruction Review](mission-reconstruction/README.md) records the October 9, 2026 source inventory, root README audit, proposed mission outline, and migration/link plan. It uses repository baseline `ef4d1997eaac4f17d07731dd0c8e4c366a2d3487` and preserves the current public documents. Its recommendations await author review; the manuscript, scaffold, root rewrite, and canonical cutover have not been executed.
+
+## 9. Authorized draft phase — October 10, 2026
+
+The author authorized creating the six-chapter structure and drafting Chapters I–II, with two-digit filename prefixes for sorting. The [working mission draft](../v5/mission-statement/README.md) records progress and document-level versions. Chapters III–VI remain outlines, and the current mission remains canonical. This later instruction supersedes the earlier unnumbered filename proposal and the initial milestone's scaffold boundary; it does not authorize the full manuscript, root rewrite, or public cutover.
