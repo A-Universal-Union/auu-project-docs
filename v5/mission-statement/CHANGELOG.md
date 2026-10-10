@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Voice refinement — 2026-10-10
+
+- Replaced Chapter I's newly drafted closing transition with the author's preferred wording: “AUU begins with faith in humanity. Human beings deserve more than increasingly efficient ways to feel powerless.” The author specifically changed “be” to “feel”; the sentence names an experience without declaring people devoid of agency.
+- Recorded the requested voice and the distinction between felt helplessness and actual capacity in the repository's writing instructions. This is a focused editorial refinement; the document version remains `0.1.0-draft.3`.
+- Preserved Chapter I's inherited source passages and the other chapters.
+
 ## 0.1.0-draft.3 — 2026-10-10
 
 ### Drafted

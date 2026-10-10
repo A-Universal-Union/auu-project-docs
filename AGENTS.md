@@ -49,6 +49,14 @@ AUU's historical mission includes more than process verification: collective lea
 - Keep the author's first-person convictions distinct from statements that would imply an existing organization speaks unanimously. AI assistance and uncertainty should not be disguised.
 - Preserve controlled terminology or explicitly propose changes to the glossary. Keep accessibility, reasonable cognitive load, and nontechnical readers in mind.
 
+### Authorial voice and agency
+
+- The author's requested voice is **serious, empathetic, intelligent, analytical, and fanatical**. Give that intensity a clear object: human dignity, agency, and the possibility of improvement. Arguments and mechanisms remain open to criticism and revision.
+- Let conviction appear in direct judgments, concrete consequences, and attention to what people experience. Allow the prose to express care, frustration, and determination where the argument earns them. A transition should carry meaning and personality, rather than merely announce the next editorial step.
+- Preserve the distinction between **feeling powerless** and **being powerless**. Describe the experience of helplessness without automatically declaring an absence of capacity to judge, cooperate, resist, or change conditions. Equally, do not assume effective power is available to everyone or that confidence alone can overcome material barriers. Identify actual restrictions precisely when the evidence supports them.
+- The author's wording correction provides a calibration example: “AUU begins with faith in humanity. Human beings deserve more than increasingly efficient ways to feel powerless.” Here, **feel** leaves the possibility of agency open while taking the experience seriously. Carry that distinction into future writing; do not mechanically replace factual descriptions of power with descriptions of feeling.
+- When humor serves the argument, use **dry absurdism and dark humor**. Let institutional contradictions, exercises of power, and the project's own pretensions supply the target. Keep empathy for people bearing the consequences, and let serious passages stand without an obligatory joke.
+
 ## Change discipline and stopping boundaries
 
 - Make focused, reviewable changes. Before substantial edits, state the intended scope and identify affected documents and links.

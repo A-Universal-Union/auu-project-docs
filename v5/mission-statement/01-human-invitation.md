@@ -36,7 +36,7 @@ That requires better disagreement, not merely more of it. The system should help
 
 If someone believes trans people should have fewer rights, an echo chamber protects no one, and humiliation probably will not change that belief. It should meet testimony from the people it harms, relevant facts, and serious objections chosen through a process people can inspect and challenge. Those objections must be expressed in language the person holding the belief can understand. Basic rights should not depend on winning a debate. But changing a harmful belief still requires reaching the human being who holds it. Our own ideas must survive serious scrutiny too.
 
-A proposal built for people has to begin by saying what it believes about them. AUU begins with faith in humanity.
+AUU begins with faith in humanity. Human beings deserve more than increasingly efficient ways to feel powerless.
 
 ---
 
