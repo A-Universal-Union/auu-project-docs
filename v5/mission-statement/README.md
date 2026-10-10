@@ -41,7 +41,7 @@ Human dignity and relationships give the work its purpose. The designs proposed 
 
 ## Draft scope and provenance
 
-This phase creates the structure and develops Chapters I–II. Chapters III–VI remain outlines. The [review package](../../project-planning/mission-reconstruction/README.md) holds the historical inventory, source preservation map, and migration proposal. The author's October 10, 2026 naming instruction replaces the earlier unnumbered proposal with `01-` through `06-` prefixes; filenames remain stable across ordinary revisions.
+The initial phase created the structure and drafted Chapters I–II. Following a review of the form and voice, the author authorized a focused pacing revision to Chapter II and drafting Chapters III–IV. The pacing revision is complete; Chapters III–VI currently remain outlines. Chapter V's outline retains the design questions separated from Chapter II. The [review package](../../project-planning/mission-reconstruction/README.md) holds the historical inventory, source preservation map, and migration proposal. The author's October 10, 2026 naming instruction replaces the earlier unnumbered proposal with `01-` through `06-` prefixes; filenames remain stable across ordinary revisions.
 
 The document's [version](VERSION.md) covers this directory as a whole. Its [changelog](CHANGELOG.md) records completed stages, source use, and substantive additions. No collection index or public cutover has occurred; the [root Reader's Map](../../README.md) remains the public entry point.
 

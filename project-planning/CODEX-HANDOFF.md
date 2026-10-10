@@ -144,3 +144,9 @@ That milestone is complete for author review at mission version `0.1.0-draft.3`.
 The author requested that the voice guidance apply to public writing for a general audience, and asked for both a revision of the new draft and a temporary revision of the short public mission. The [expanded draft](../v5/mission-statement/README.md) is now at `0.1.0-draft.4`, with the introduction and Chapters I–II revised and a source/change map in its changelog. Chapters III–VI remain outlines.
 
 The [temporary public mission revision](mission-reconstruction/05-public-mission-voice-draft.md) is a separate comparison copy in the review package, which is now at `0.1.0-draft.5`. Its changelog accounts for every original source block. The original short mission remains canonical. The public root, specialist documents, and diagrams retain their contents and routes.
+
+## 11. Mission development after form review — October 10, 2026
+
+The author accepted the recommendation to retain the six-chapter structure, make a focused pacing revision to Chapter II, and draft Chapters III–IV before another comprehensive voice pass. This extends the drafting authorization to those two chapters. Chapters V–VI remain outlines; preserving deferred design questions in Chapter V's outline is part of the Chapter II revision.
+
+The pacing stage is complete at mission version `0.1.0-draft.5`. The manuscript gives affirmative cooperation and the human costs of exclusion and failed correction more space. Its changelog maps the changes and the relocation of detailed participation alternatives. Chapters III–IV are the remaining authorized work in this phase. Public routing, the canonical short mission, its temporary revision, and specialist documents remain outside this phase.

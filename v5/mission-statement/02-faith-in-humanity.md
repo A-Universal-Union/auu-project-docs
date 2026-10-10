@@ -18,7 +18,7 @@ Faith in humanity has to face human failure. People can deceive, exploit, look a
 
 ## Dignity, conscience, and agency
 
-Your worth does not begin when an institution approves your application. It does not grow with your follower count or disappear when you become difficult to accommodate. AUU begins from equal human dignity. There may be good reasons to check whether someone is eligible for a particular role or decision. Being treated as a human being cannot be one of the privileges reserved for successful applicants.
+Your worth does not begin when an institution approves your application. It does not grow with your follower count or disappear when you become difficult to accommodate. AUU begins from equal human dignity. Being treated as a human being cannot be one of the privileges reserved for successful applicants.
 
 Agency means having room to use your judgment and influence what happens in your life. You should be able to ask a question, bring forward a concern, propose something, find others willing to help, and challenge a decision that affects you. That includes questioning the choices on offer. If every available answer misses the problem, there needs to be a way to change the question.
 
@@ -34,7 +34,11 @@ Consider what you entrust to another person. A neighbor agrees to collect your c
 
 AUU begins with respect for these relationships. Cooperation asks people to make commitments, rely on one another, and answer for what happens. Procedures can help organize that work. The people doing it give it a purpose.
 
-There is something worth wanting here: the freedom to ask for help, offer what you know, and attempt something worthwhile together. A shared task can give people a chance to discover what each brings and what they could not accomplish alone. AUU should make room for the patience that building such relationships takes. A civic life worth caring about should give people something they can help create.
+There is something worth wanting here: the freedom to ask for help, offer what you know, and attempt something worthwhile together. Imagine neighbors trying to reopen a neglected meeting room. One knows how to repair the shelves. Another knows why the last attempt failed. Someone who cannot attend every meeting can translate the invitation. Someone else asks whether a wheelchair could get through the door. The work gives each of them a way to contribute something the others need.
+
+Then imagine the room open. People use something they helped bring back. The next proposal has a place to begin, and people who have already done something together. That is a modest ambition, and an enormous one: to encounter a shared problem and have somewhere to take it, people to take it with, and a reason to believe the effort might reach beyond another conversation.
+
+AUU should make more room for that experience. For the satisfaction of making something useful. For the discovery that someone you disagree with knows how to do something you cannot. For the chance to become useful to one another without first becoming alike. A civic life worth caring about should give people something they can help create, and enough room to care for it after the excitement of beginning has passed.
 
 Trust also has a scope. You might trust a friend with a painful confidence and still want someone qualified to inspect a bridge. Expertise does not establish whether someone will keep a promise. Agreement on one issue does not authorize someone to speak for all your beliefs. The question is what has actually been entrusted, for which purpose, and on what grounds.
 
@@ -42,13 +46,17 @@ People also need to cooperate with strangers. Records, evidence, professional du
 
 And a personal relationship can be unsafe. Family, familiarity, and a close community do not rule out fear, dependence, or abuse. People need room to refuse, set boundaries, withdraw, and seek help beyond the circle they already know. One person's wrongdoing cannot justify assigning guilt to everyone connected to them.
 
-Earlier AUU proposals tried to carry human recognition into a digital setting through witnessed connections and networks with limits on how many connections each person could make. A network of those recorded relationships is a *trust graph*. It is [one candidate design](../../v5-documents/2.feature-sets.md#45-trust-reputation-and-standing), with questions still to answer about manipulation, exposed associations, and people who have few connections. The [glossary uses “trust” more narrowly](../../v5-documents/GLOSSARY.md#trust) for particular relationships or signals of recognition. These designs need testing. The value of a human relationship cannot tell us whether a particular piece of software can protect it.
+Earlier AUU proposals tried to carry human recognition into software through a *trust graph*: a network of recorded relationships. That remains [a candidate design](../../v5-documents/2.feature-sets.md#45-trust-reputation-and-standing), and the [glossary uses “trust” more narrowly](../../v5-documents/GLOSSARY.md#trust) for particular relationships or signals of recognition. The value of a human relationship cannot tell us whether a particular piece of software can protect it. The design still has to earn that confidence.
 
 ## Machinery in human hands
 
 Software can help people find evidence, compare proposals, keep a record, or understand a disagreement. That is useful work when it gives people more room to think and act. Judge a tool by what it helps people do, what it asks of them, and what happens to those who struggle to use it.
 
 Imagine a tenant explaining a housing dispute. A system summarizes the account for a busy reviewer, but leaves out the qualification on which the tenant's case depends. The summary is clear, concise, and wrong where it matters. Now what?
+
+Imagine the tenant trying again. The reply points back to the summary. They explain what it left out. Another reply says the account has already been considered. Every step has a record. Somewhere in those records is a person still trying to get the actual problem heard.
+
+How many times should they have to explain it? To whom? At what point does completing the process become an excuse for abandoning its purpose? Keep asking. The person has not disappeared because the workflow has reached its final step.
 
 The tenant should be able to see the error, correct it, and reach someone who can reconsider the decision. The original account must remain available to that process. A beautifully processed summary is little comfort to the person who has to live with its consequences. Efficiency has to include getting the important part right.
 
@@ -64,11 +72,11 @@ Now consider someone who has no one they can safely ask to vouch for them.
 
 They may have just arrived in a community. They may be leaving an abusive household, protecting associates from exposure, or living in isolation. A design built around social recognition has to face these situations directly. The person does not become less important because the design has reached a difficult case.
 
-Their dignity is already there. If a decision will affect their home, work, safety, or care, its consequences will not wait for them to create an account. There needs to be a way to hear them and examine an exclusion. Otherwise, a system claiming to serve people has made its own enrollment problem their loss of a voice.
+Their dignity is already there. If a decision will affect their home, work, safety, or care, its consequences will not wait for them to create an account. Ask the person leaving an abusive household to return for a witness, and the contradiction is already in the request. The relationship they need to escape has become the proposed price of being heard. AUU cannot be satisfied with that answer. Try another route. If that route exposes them, try again. The difficulty belongs in the design; it cannot be made into a defect in the person.
 
-That does not give everyone a vote in every association or decision. Being a member, knowing something relevant, being affected, and holding decision authority are different things. Explain which relationship a particular action requires. Allow an exclusion to be challenged. Preventing impersonation is a real design problem; a rule that shuts out isolated people leaves another real problem unsolved.
+There needs to be a way to hear them and examine an exclusion. Being affected does not automatically give someone a vote in every association or decision, but it gives the consequences a human address. A membership list cannot tell the whole story of who has something at stake.
 
-The alternatives still need work. They might include other ways to establish eligibility, protected testimony, help from someone answerable for that help, or review when enrollment fails. Each brings questions about privacy, pressure, dependence, accessibility, and abuse. Test these approaches with the people who would need them. Calling a route inclusive is not enough to show that someone can safely use it.
+The practical alternatives still need research with the people who would depend on them. [Chapter V's design outline](05-civic-infrastructure.md#trust-mechanisms-and-their-limits) carries those questions forward. Calling a route inclusive is not enough to show that someone can safely use it.
 
 Some people will need assistance to understand a process or communicate a position. Disability, language, limited connectivity, exhaustion, and lack of time all belong in the design from the beginning. A helper should increase the person's control over what is shared and authorized. Helping someone fill out a form cannot become permission to speak for them on everything else.
 

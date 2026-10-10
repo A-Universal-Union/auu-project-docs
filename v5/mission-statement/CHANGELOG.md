@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.1.0-draft.5 — 2026-10-10
+
+### Chapter II pacing and emphasis
+
+The author accepted the review recommendation to retain the six-chapter form, revise Chapter II's pacing, and draft Chapters III–IV. This first stage gives cooperation, human consequences, and sustained insistence more room. The baseline is `dfe26b3`. The later drafting stages remain separate; the canonical mission and temporary public revision are unchanged.
+
+| Passage | Preserved | Changed or relocated, and why |
+| :--- | :--- | :--- |
+| Dignity, conscience, and agency | Equal worth before enrollment; agency, conscience, dissent, standing, and limited authority. | Removed the intervening eligibility-check sentence from the opening paragraph. Its qualification is carried explicitly into Chapter V's outline beside the design questions it governs. |
+| Human trust: affirmative cooperation | Everyday relationships, the scope of trust, cooperation with strangers, unsafe relationships, withdrawal, and rejection of guilt by association. | Expanded the affirmative passage through a new hypothetical about reopening a meeting room. Gives joint accomplishment, difference, accessibility, and continued care space before the qualifications. No reported event or proven benefit is implied. |
+| Human trust: graph paragraph | Candidate status, ordinary trust versus controlled terminology, and the inability of a conviction to validate software. | Kept a short definition and the existing specialist links. Relocated witnessed connections, connection caps, manipulation, exposed associations, and inclusion questions to Chapter V's outline. |
+| Machinery in human hands | The tenant hypothetical, original account, effective correction, meaningful human review, reliable instruments, and scrutiny of designers and funders. | Extended the hypothetical through repeated failed attempts to correct the summary. Questions now linger on the burden borne by the person before developing the remedy. |
+| People beyond the graph | Isolation and unsafe relationships; dignity before enrollment; affected standing without automatic voting authority; contested exclusion; disability, language, time and connectivity; bounded assistance and absence without presumed consent. | Developed the contradiction of requiring an unsafe witness. Condensed repeated distinctions and linked to Chapter V's outline. Moved the detailed eligibility/testimony/assistance/review candidates and their research risks there, including the need to explain each action's eligibility basis. |
+| Faith and the possibility of correction | All existing prose on revision, memory, repair, privacy, boundaries, institutional incentives, peaceful influence, and AUU's own answerability. | Unchanged; still provides the transition into the civilizational argument. |
+
+Chapter V remains an outline, not a newly drafted chapter. Its added paragraphs preserve deferred material at a visible destination; no safeguard is claimed to be implemented or validated. Chapter I's clarification about real-world outcomes remains unchanged.
+
 ## 0.1.0-draft.4 — 2026-10-10
 
 ### Public voice revision
